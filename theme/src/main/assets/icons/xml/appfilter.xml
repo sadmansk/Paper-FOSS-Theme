@@ -33,8 +33,13 @@
     <item component="ComponentInfo{com.android.browser/com.android.browser.WoActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.WoHallActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
-    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calc" />
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.AsxCalculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.CalculatorActivity}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator-Dark}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator-Light}" drawable="calculator" />
+    <item component="ComponentInfo{com.android2.calculator3/.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity}" drawable="contacts" />
