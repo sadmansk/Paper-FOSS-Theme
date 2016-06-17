@@ -197,6 +197,8 @@
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.VoiceMailTabActivity}" drawable="sms" />
     <item component="ComponentInfo{com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity}" drawable="sms" />
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.ConversationListActivity}" drawable="sms_secure" />
+    <item component="ComponentInfo{org.libresignal/org.thoughtcrime.securesms.RoutingActivity}" drawable="sms_secure" />
     <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="antox" />
     <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
     <item component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}" drawable="antox" />

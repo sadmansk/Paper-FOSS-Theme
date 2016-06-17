@@ -22,10 +22,12 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Firefox
   * Firefox Beta
   * Keepass
+  * LibreSignal
   * muPDF
   * Music Player (Apollo)
   * ownCloud
   * SGit
+  * SMSSecure
   * Telegram
   * VLC
   * Webtube
