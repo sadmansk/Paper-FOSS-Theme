@@ -35,7 +35,24 @@
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calc" />
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
-    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallDialtactsActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLog}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogShortcut}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.dialer.DialerPhoneActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialerActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsDialerEntryActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.PhoneContactsActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.PhoneDialtactsActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.RecentCallsLauncherActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.SmartDialerActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/com.oppo.contacts.OppoDialtactsActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="documents" />
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
