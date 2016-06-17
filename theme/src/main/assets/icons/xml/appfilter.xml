@@ -3,7 +3,7 @@
 <resources>
 
     <!-- Set deafult scale factor for the icons -->
-    <scale factor="0.25" />
+    <scale factor="1" />
     <iconback img1="iconback" />
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
