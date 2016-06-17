@@ -9,8 +9,9 @@
     <iconupon img1="iconupon" />
 
     <!--Browser-->
+    <item component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}" drawable="firefox" />
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
-
+    <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
     <!--Stores-->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
 
