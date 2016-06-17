@@ -154,8 +154,13 @@
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="recorder" />
 
     <!--Cyanogendmod-->
+    <item component="ComponentInfo{com.cyanogenmod.filemanager.ics/com.cyanogenmod.filemanager.ics.activities.NavigationActivity}" drawable="filemanager" />
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ChangeLogActivity}" drawable="filemanager" />
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.PickerActivity}" drawable="filemanager" />
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.preferences.SettingsPreferences}" drawable="filemanager" />
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.SearchActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="filemanager" />
-
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.themes.ThemeActivity}" drawable="filemanager" />
     <!--MediaPlayer-->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc"/>
     <item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.MusicLibrary}" drawable="music" />
