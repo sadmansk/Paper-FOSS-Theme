@@ -49,6 +49,25 @@
 
     <!--MediaPlayer-->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc"/>
+    <item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.MusicLibrary}" drawable="music" />
+    <item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.HomeActivity}" drawable="music" />
+    <item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.ProfileActivity}" drawable="music" />
+    <item component="ComponentInfo{com.andrew.apolloMod/com.andrew.apolloMod.activities.MusicLibrary}" drawable="music" />
+    <item component="ComponentInfo{com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
+    <item component="ComponentInfo{com.android.music/com.android.music.list.activity.MpMainTabActivity}" drawable="music" />
+    <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music" />
+    <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserTabActivity}" drawable="music" />
+    <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ElevenApplication}" drawable="music" />
+    <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="music" />
+    <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.SearchActivity}" drawable="music" />
+    <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.SettingsActivity}" drawable="music" />
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagment.TopLevelActivity}" drawable="music" />
+    <item component="ComponentInfo{com.google.android.music/com_android_music_activitymanagement_toplevelactivity}" drawable="music" />
+    <item component="ComponentInfo{com.google.android/com.google.android.music.MusicBrowserActivity}" drawable="music" />
+    <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.list.activity.MpMainTabActivity}" drawable="music" />
+    <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicActionTabActivity}" drawable="music" />
+    <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicBrowserTabActivity}" drawable="music" />
 
     <!--Messenger-->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />

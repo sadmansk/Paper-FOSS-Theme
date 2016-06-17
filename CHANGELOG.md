@@ -19,6 +19,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * FDroid
   * Firefox
   * Keepass
+  * Music Player (Apollo)
   * SGit
   * Telegram
   * VLC
