@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Set deafult scale factor for the icons -->
+    <scale factor="0.25" />
+    <iconback img1="iconback" />
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+
+    <!--Browser-->
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
+
+    <!--Stores-->
+    <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
+
+</resources>
