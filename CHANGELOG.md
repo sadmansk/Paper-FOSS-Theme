@@ -21,6 +21,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Keepass
   * muPDF
   * Music Player (Apollo)
+  * ownCloud
   * SGit
   * Telegram
   * VLC
