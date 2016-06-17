@@ -14,6 +14,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Android Gallery
   * Android Settings
   * Android Sound Recoder
+  * Antox
   * Cyanognmod FileManager
   * Face Slim
   * FDroid

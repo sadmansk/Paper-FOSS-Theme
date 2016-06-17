@@ -175,6 +175,9 @@
 
     <!--Messenger-->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="antox" />
+    <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
+    <item component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}" drawable="antox" />
 
     <!--Office-->
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="pdf" />
