@@ -2,8 +2,6 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
 
 ### v0.1
 * added icons
-  * Firefox
-  * FDroid
   * Android Browser
   * Android Calendar
   * Android Calculator
@@ -13,5 +11,8 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Android EMail
   * Android Sound Recoder
   * Cyanognmod FileManager
+  * Face Slim
+  * FDroid
+  * Firefox
   * SGit
   * Webtube
