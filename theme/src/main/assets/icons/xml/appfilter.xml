@@ -185,6 +185,17 @@
     <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicBrowserTabActivity}" drawable="music" />
 
     <!--Messenger-->
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.CmasListActivityShortCut}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.EntryActivity}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ModeChooser}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.UiController}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.VoiceMailTabActivity}" drawable="sms" />
+    <item component="ComponentInfo{com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity}" drawable="sms" />
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="antox" />
     <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />

@@ -13,6 +13,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Android EMail
   * Android Gallery
   * Android Settings
+  * Android SMS/MMS
   * Android Sound Recoder
   * Antox
   * Cyanognmod FileManager
