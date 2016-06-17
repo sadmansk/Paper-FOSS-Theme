@@ -16,6 +16,22 @@
 
     <!--System-->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BookmarkSearch}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.Browser9130MainView}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivityWithLauncher}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserDownloadPage}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.ShortcutActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.ui.BrowserActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.widget.BookmarkThumbnailWidgetProvider}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.WoActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.WoHallActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calc" />
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
