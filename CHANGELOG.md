@@ -16,6 +16,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Android SMS/MMS
   * Android Sound Recoder
   * Antox
+  * Chromium
   * Cyanognmod FileManager
   * Face Slim
   * FDroid
