@@ -16,6 +16,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Face Slim
   * FDroid
   * Firefox
+  * Keepass
   * SGit
   * VLC
   * Webtube

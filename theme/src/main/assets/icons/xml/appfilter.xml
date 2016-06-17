@@ -37,5 +37,7 @@
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook"/>
 
-    
+    <!--Secruity-->
+    <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepass" />
+
 </resources>
