@@ -5,6 +5,8 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * AFWall+
   * K9Mail
   * Plumble
+* added alarm
+  * Church Ambiance
 
 ### v0.1
 * added icons
