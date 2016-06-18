@@ -7,6 +7,8 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Plumble
 * added alarm
   * Church Ambiance
+* added Notification Sound
+  * Pool
 
 ### v0.1
 * added icons
