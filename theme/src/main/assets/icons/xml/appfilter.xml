@@ -222,8 +222,11 @@
     <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="git"/>
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook"/>
+    <item component="ComponentInfo{org.indywidualni.fblite/.activity.SplashActivity}" drawable="facebook" />
+    <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="facebook" />
 
     <!--Secruity-->
+    <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="firewall" />
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepass" />
 
 </resources>
