@@ -189,6 +189,7 @@
     <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicBrowserTabActivity}" drawable="music" />
 
     <!--Messenger-->
+    <item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="mumble" />
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="sms" />
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.CmasListActivityShortCut}" drawable="sms" />
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="sms" />

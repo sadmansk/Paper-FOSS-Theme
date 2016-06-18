@@ -3,6 +3,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
 ### v0.2
 * added icons
   * AFWall+
+  * Plumble
 
 ### v0.1
 * added icons
