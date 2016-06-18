@@ -9,6 +9,11 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Church Ambiance
 * added Notification Sound
   * Pool
+* added ringtone
+  * Larry Ogaff
+    * Link: http://www.zedge.net/ringtone/1407006/
+    * Licence: https://creativecommons.org/licenses/by-nc-sa/3.0/de/
+    * Changes: no
 
 ### v0.1
 * added icons
