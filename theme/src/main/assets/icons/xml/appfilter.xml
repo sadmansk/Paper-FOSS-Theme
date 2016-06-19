@@ -8,6 +8,9 @@
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
 
+    <!--Games-->
+    <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="2048" />
+
     <!--Browser-->
     <item component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}" drawable="firefox" />
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
@@ -164,16 +167,16 @@
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
     <item component="ComponentInfo{com.android.voicedialer/com.android.voicedialer.VoiceDialerActivity}" drawable="voicedialer" />
-    <item component="ComponentInfo{org.cyanogenmod.voiceplus/org.cyanogenmod.voiceplus.VoicePlusSetup}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.AsusRecorder}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.HQSoundRecorder}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecorderActivity}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.Sound}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderLauncher}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderTab}" drawable="voicerecorder" />
-    <item component="ComponentInfo{com.android.soundrecorder2/com.android.soundrecorder2.SoundRecorder2}" drawable="voicerecorder" />
+    <item component="ComponentInfo{org.cyanogenmod.voiceplus/org.cyanogenmod.voiceplus.VoicePlusSetup}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.AsusRecorder}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.HQSoundRecorder}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecorderActivity}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.Sound}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderLauncher}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderTab}" drawable="recorder" />
+    <item component="ComponentInfo{com.android.soundrecorder2/com.android.soundrecorder2.SoundRecorder2}" drawable="recorder" />
     <item component="ComponentInfo{com.android.videoeditor/.ProjectsActivity}" drawable="videoeditor" />
     <item component="ComponentInfo{com.android.dreams.basic/.Colors}" drawable="wallpaper" />
     <item component="ComponentInfo{com.android.dreams.phototable/.FlipperDreamSettings}" drawable="wallpaper" />
