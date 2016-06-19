@@ -173,6 +173,7 @@
     <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.SearchActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.themes.ThemeActivity}" drawable="filemanager" />
+    <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
 
     <!--MediaPlayer-->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc"/>
@@ -241,6 +242,8 @@
     <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />
     <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal" />
     <item component="ComponentInfo{jackpal.androidterm2/jackpal.androidterm2.Term}" drawable="terminal" />
+    <item component="ComponentInfo{org.schabi.terminightor/org.schabi.terminightor.AlarmItemListActivity}" drawable="terminightor" />
+    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
 
     <!--Secruity-->
     <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="firewall" />
