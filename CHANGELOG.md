@@ -4,6 +4,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
 * added icons
   * Android Downloads
   * Android Terminal
+  * Android Video Editor
   * Cyanogendmod Themes
   * Term
   * Termux
