@@ -10,6 +10,8 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Termux
   * Terminigathor
   * VIM Touch
+* Fix
+  * Support more Soundrecorder Activities
 
 ### v0.2
 * added icons
