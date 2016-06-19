@@ -238,6 +238,7 @@
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook"/>
     <item component="ComponentInfo{org.indywidualni.fblite/.activity.SplashActivity}" drawable="facebook" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="facebook" />
+    <item component="ComponentInfo{net.momodalo.app.vimtouch/net.momodalo.app.vimtouch.VimTouch}" drawable="vim" />
 
     <!--Terminal-->
     <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />

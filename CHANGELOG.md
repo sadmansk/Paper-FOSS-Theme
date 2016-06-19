@@ -9,6 +9,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Term
   * Termux
   * Terminigathor
+  * VIM Touch
 
 ### v0.2
 * added icons
