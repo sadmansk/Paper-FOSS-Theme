@@ -151,6 +151,14 @@
     <item component="ComponentInfo{com.android.phone/com.android.phone.TwDialer}" drawable="phone" />
     <item component="ComponentInfo{com.android.phone/com.android.phone.VoicemailNumberFragment}" drawable="phone" />
     <item component="ComponentInfo{com.android.server.telecom/.PackageInstallerActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.GnDownloadTabActivity}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads/.SizeLimitActivity}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadListUI}" drawable="downloads" />
     <item component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
