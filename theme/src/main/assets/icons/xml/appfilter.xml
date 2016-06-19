@@ -175,6 +175,15 @@
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderTab}" drawable="voicerecorder" />
     <item component="ComponentInfo{com.android.soundrecorder2/com.android.soundrecorder2.SoundRecorder2}" drawable="voicerecorder" />
     <item component="ComponentInfo{com.android.videoeditor/.ProjectsActivity}" drawable="videoeditor" />
+    <item component="ComponentInfo{com.android.dreams.basic/.Colors}" drawable="wallpaper" />
+    <item component="ComponentInfo{com.android.dreams.phototable/.FlipperDreamSettings}" drawable="wallpaper" />
+    <item component="ComponentInfo{com.android.dreams.phototable/.PhotoTableDreamSettings}" drawable="wallpaper" />
+    <item component="ComponentInfo{com.android.galaxy4/.Galaxy4}" drawable="wallpaper" />
+    <item component="ComponentInfo{com.android.phasebeam/.PhaseBeamSelector}" drawable="wallpaper" />
+    <item component="ComponentInfo{com.android.wallpaper.holospiral/.HoloSpiralTestActivity}" drawable="wallpaper" />
+    <item component="ComponentInfo{com.android.wallpaper.livepicker/.LiveWallpaperActivity}" drawable="wallpaper" />
+    <item component="ComponentInfo{com.android.wallpaper/com.android.wallpaper.polarclock.PolarClockSettings}" drawable="wallpaper" />
+    <item component="ComponentInfo{org.cyanogenmod.wallpapers.photophase/.PhotoPhaseActivity}" drawable="wallpaper" />
 
     <!--Cyanogendmod-->
     <item component="ComponentInfo{com.cyanogenmod.filemanager.ics/com.cyanogenmod.filemanager.ics.activities.NavigationActivity}" drawable="filemanager" />
