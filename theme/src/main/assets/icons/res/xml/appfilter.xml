@@ -189,6 +189,7 @@
     <item component="ComponentInfo{org.cyanogenmod.wallpapers.photophase/.PhotoPhaseActivity}" drawable="wallpaper" />
 
     <!--Cyanogendmod-->
+    <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager.ics/com.cyanogenmod.filemanager.ics.activities.NavigationActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ChangeLogActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.PickerActivity}" drawable="filemanager" />
@@ -245,22 +246,36 @@
     <item component="ComponentInfo{com.xabber.androiddev/.ui.ContactList}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
 
+    <!--Navigation-->
+    <item component="ComponentInfo{com.mapswithme.maps.libre/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
+
     <!--Office-->
+    <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="document_viewer"/>
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="pdf" />
-    <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
-    <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
 
-    <!--Mail-->
-    <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="mail_secure" />    
 
-    <!--Other-->
-    <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="git"/>
+    <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
     <item component="ComponentInfo{org.schabi.newpipe/.VideoItemListActivity}" drawable="youtube" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook"/>
     <item component="ComponentInfo{org.indywidualni.fblite/.activity.SplashActivity}" drawable="facebook" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="facebook" />
+
+    <!--Mail-->
+    <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="mail_secure" />
+
+    <!--FileTransfer-->
+    <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}" drawable="syncthing" />
+    <item component="ComponentInfo{org.opensilk.syncthing.debug/syncthing.android.ui.LauncherActivity}" drawable="syncthing" />
+    <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seafile" />
+    <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
+    <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
+
+    <!--Other-->
+    <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="git"/>
     <item component="ComponentInfo{net.momodalo.app.vimtouch/net.momodalo.app.vimtouch.VimTouch}" drawable="vim" />
+    <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="cal_color"/>
+    <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="scope"/>
 
     <!--Terminal-->
     <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />
@@ -272,5 +287,8 @@
     <!--Secruity-->
     <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="firewall" />
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepass" />
+
+    <!--Weather-->
+    <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.SplashActivity}" drawable="weather"/>
 
 </resources>

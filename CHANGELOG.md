@@ -1,5 +1,16 @@
 I'm using some icons for serveral apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+### v.05
+* added icons
+  * AudioFx
+  * Calendar Colors
+  * Document Viewer
+  * MapsMe
+  * Scope
+  * Seafile
+  * Syncthing
+  * Weather
+
 ### v0.4
 * [Fixed] Missing folder icons/res
 * Change some icons:
