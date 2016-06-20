@@ -9,3 +9,7 @@ Paper FOSS Theme is a Material Design inspired theme for Android Lollipop aiming
 A device running the Cyanogenmod 12 ROM or any other rom compatible with the CM12 theme engine is needed to use the theme.
 
 * [Changelog](https://github.com/beli3ver/Paper-FOSS-Theme/blob/master/CHANGELOG.md)
+
+[<img src="https://f-droid.org/badge/get-it-on.png"
+      alt="Get it on F-Droid"
+      height="80">](https://f-droid.org/app/com.kn.paper_foss_theme)
