@@ -1,5 +1,10 @@
 I'm using some icons for serveral apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+### v.05
+* added icons
+  * Calendar Colors
+  * Weather
+
 ### v0.4
 * [Fixed] Missing folder icons/res
 * Change some icons:
