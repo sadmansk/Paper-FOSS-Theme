@@ -2,10 +2,12 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
 
 ### v.05
 * added icons
+  * APG
   * AudioFx
   * Calendar Colors
   * Document Viewer
   * MapsMe
+  * OpenKeyChain
   * Scope
   * Seafile
   * Syncthing
