@@ -1,7 +1,11 @@
 I'm using some icons for serveral apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
 ### v0.4
-* redesign Icons to support Material Design
+* [Fixed] Missing folder icons/res
+* Change some icons:
+  * settings
+  * xabber music
+  * support for all resolutions
 
 ### v0.3
 * added icons
