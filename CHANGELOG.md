@@ -4,6 +4,9 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
 * added icons
   * Calendar Colors
   * Document Viewer
+  * Scope
+  * Seafile
+  * Syncthing
   * Weather
 
 ### v0.4

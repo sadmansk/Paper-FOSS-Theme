@@ -248,8 +248,7 @@
     <!--Office-->
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="document_viewer"/>
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="pdf" />
-    <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
-    <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
+
 
     <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
@@ -261,10 +260,18 @@
     <!--Mail-->
     <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="mail_secure" />
 
+    <!--FileTransfer-->
+    <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}" drawable="syncthing" />
+    <item component="ComponentInfo{org.opensilk.syncthing.debug/syncthing.android.ui.LauncherActivity}" drawable="syncthing" />
+    <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seafile" />
+    <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
+    <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
+
     <!--Other-->
     <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="git"/>
     <item component="ComponentInfo{net.momodalo.app.vimtouch/net.momodalo.app.vimtouch.VimTouch}" drawable="vim" />
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="cal_color"/>
+    <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="scope"/>
 
     <!--Terminal-->
     <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />
