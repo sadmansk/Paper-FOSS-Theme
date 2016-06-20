@@ -189,6 +189,7 @@
     <item component="ComponentInfo{org.cyanogenmod.wallpapers.photophase/.PhotoPhaseActivity}" drawable="wallpaper" />
 
     <!--Cyanogendmod-->
+    <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager.ics/com.cyanogenmod.filemanager.ics.activities.NavigationActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ChangeLogActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.PickerActivity}" drawable="filemanager" />

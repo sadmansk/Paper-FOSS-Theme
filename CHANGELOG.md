@@ -2,6 +2,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
 
 ### v.05
 * added icons
+  * AudioFx
   * Calendar Colors
   * Document Viewer
   * Scope
