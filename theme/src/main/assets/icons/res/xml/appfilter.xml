@@ -245,6 +245,11 @@
     <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.androiddev/.ui.ContactList}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
+    <item component="ComponentInfo{org.yaaic/.activity.MainActivity}" drawable="irc" />
+    <item component="ComponentInfo{org.yaaic/org.yaaic.activity.MainActivity}" drawable="irc" />
+    <item component="ComponentInfo{org.yaaic/org.yaaic.activity.ServersActivity}" drawable="irc" />
+    <item component="ComponentInfo{com.ubergeek42.WeechatAndroid.dev/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="irc" />
+    <item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="irc" />
 
     <!--Navigation-->
     <item component="ComponentInfo{com.mapswithme.maps.libre/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
