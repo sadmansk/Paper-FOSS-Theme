@@ -6,6 +6,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Amaze Filemanager
   * Atomic
   * CertTools
+  * NetGuard
   * OpenTasks
   * Tasks
   * WeeChat
