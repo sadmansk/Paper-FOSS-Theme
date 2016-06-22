@@ -3,6 +3,7 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
 
 ### v0.6
 * added icons
+  * Atomic
   * OpenTasks
   * Tasks
   * WeeChat
