@@ -252,10 +252,10 @@
     <!--Office-->
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="document_viewer"/>
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="pdf" />
-    <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="tasks" />
-    <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.ShortcutActivity}" drawable="tasks" />
-    <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="tasks" />
-    <item component="ComponentInfo{org.tasks/org.tasks.activities.TimePickerActivity}" drawable="tasks" />
+    <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="todo" />
+    <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.ShortcutActivity}" drawable="todo" />
+    <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="todo" />
+    <item component="ComponentInfo{org.tasks/org.tasks.activities.TimePickerActivity}" drawable="todo" />
 
 
     <!--Internet-->
