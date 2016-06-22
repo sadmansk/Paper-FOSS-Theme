@@ -188,6 +188,9 @@
     <item component="ComponentInfo{com.android.wallpaper/com.android.wallpaper.polarclock.PolarClockSettings}" drawable="wallpaper" />
     <item component="ComponentInfo{org.cyanogenmod.wallpapers.photophase/.PhotoPhaseActivity}" drawable="wallpaper" />
 
+    <!--FileManager-->
+    <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="filemanager" />
+    
     <!--Cyanogendmod-->
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager.ics/com.cyanogenmod.filemanager.ics.activities.NavigationActivity}" drawable="filemanager" />
