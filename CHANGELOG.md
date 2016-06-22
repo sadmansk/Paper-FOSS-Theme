@@ -6,13 +6,14 @@ I'm using some icons for serveral apps. So if some apps are using the same icons
   * Amaze Filemanager
   * Atomic
   * CertTools
+  * Loop Habit Tracker
   * NetGuard
   * OpenTasks
   * Tasks
   * WeeChat
   * Yaaic
 * redesign
-  * COnversation
+  * Conversation
 
 ### v.05
 * added icons
