@@ -1,5 +1,11 @@
 I'm using some icons for serveral apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+
+### v0.6
+* added icons
+  * OpenTasks
+  * Tasks
+
 ### v.05
 * added icons
   * APG
