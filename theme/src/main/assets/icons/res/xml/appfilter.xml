@@ -9,7 +9,7 @@
     <iconupon img1="iconupon" />
 
     <!--Games-->
-    <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="2048" />
+    <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="game2048" />
 
     <!--Browser-->
     <item component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}" drawable="firefox" />
