@@ -15,6 +15,6 @@ A device running the Cyanogenmod 12 ROM or any other rom compatible with the CM1
       height="80">](https://f-droid.org/app/com.kn.paper_foss_theme)
 
 My bitcoin address
-'''xml
+```xml
 1HtFGvPieXqwiYrTPmN2xyF1BVkQJfhoSh
-'''
+```
