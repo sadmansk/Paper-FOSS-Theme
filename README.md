@@ -14,4 +14,4 @@ A device running the Cyanogenmod 12 ROM or any other rom compatible with the CM1
       alt="Get it on F-Droid"
       height="80">](https://f-droid.org/app/com.kn.paper_foss_theme)
 
-[<img src="http://www.wheatdogg.com/wp-content/uploads/2006/02/RibbonDonateBitcoin.png" alt="Donate via btc"](bitcoin:1HtFGvPieXqwiYrTPmN2xyF1BVkQJfhoSh)
+[<img src="http://www.wheatdogg.com/wp-content/uploads/2006/02/RibbonDonateBitcoin.png" alt="Donate via btc">](bitcoin:1HtFGvPieXqwiYrTPmN2xyF1BVkQJfhoSh)
