@@ -1,5 +1,8 @@
 I'm using some icons for serveral apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+### v0.7
+* added icons
+  * Adway
 
 ### v0.6
 * added icons
