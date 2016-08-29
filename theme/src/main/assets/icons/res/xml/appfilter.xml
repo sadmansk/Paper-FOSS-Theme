@@ -24,6 +24,29 @@
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
 
     <!--System-->
+    <item component="ComponentInfo{com.android.cp.stkmanager/com.android.cp.stkmanager.STKManagerActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.simcard/com.android.simcard.SimCardActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/.StkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/.StkLauncherActivity2}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/.StkLauncherActivity3}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/.StkMenuActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.EgStkExLauncherActivity2}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkAliasLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity3}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityII}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingle}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkMainActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.SubStkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.UtkExLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk_stklauncheractivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.yulong.android_cp.utk_utklauncheractivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk1/com.android.stk1.StkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stklauncher/com.android.stklauncher.MainActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.mediatek.StkSelection/com.mediatek.StkSelection.StkSelection}" drawable="sim" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="browser" />

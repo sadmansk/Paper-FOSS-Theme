@@ -5,6 +5,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * SimpleRSS
     * Flym
     * SpaRSS
+    * SIM-Toolkit
 
 * other
     * added Source Sans Pro Font
