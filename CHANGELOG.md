@@ -3,6 +3,8 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 ### v0.6.2
 * added icons
     * AntennaPod
+    * Lightning
+
 * fix
     * Camera
     * Contacts

@@ -17,6 +17,7 @@
     <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
     <item component="ComponentInfo{com.anddevw.getchromium/com.anddevw.getchromium.GetChromium}" drawable="getchromium" />
+    <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
 
     <!--Stores-->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
