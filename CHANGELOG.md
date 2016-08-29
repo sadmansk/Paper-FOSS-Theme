@@ -9,7 +9,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * PrimFTP
 
 * other
-    * added Source Sans Pro Font
+    * added Poppins Font
     * added Wallpaper
 
 ### v0.6.2
