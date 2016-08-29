@@ -1,5 +1,14 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+### v0.7
+* added icons
+    * SimpleRSS
+    * Flym
+    * SpaRSS
+
+* other
+    * added Source Sans Pro Font
+
 ### v0.6.2
 * added icons
     * AntennaPod

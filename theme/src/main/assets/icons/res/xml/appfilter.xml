@@ -290,6 +290,14 @@
     <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
     <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
 
+    <!--RSS-->
+    <item component="ComponentInfo{com.poloure.simplerss/com.poloure.simplerss.FeedsActivity}" drawable="feed" />
+    <item component="ComponentInfo{net.etuldan.sparss.floss/net.etuldan.sparss.activity.HomeActivity}" drawable="feed" />
+    <item component="ComponentInfo{net.etuldan.sparss/.activity.HomeActivity}" drawable="feed" />
+    <item component="ComponentInfo{net.etuldan.sparss/.MainApplication}" drawable="feed" />
+    <item component="ComponentInfo{net.etuldan.sparss/net.etuldan.sparss.activity.HomeActivity}" drawable="feed" />
+    <item component="ComponentInfo{net.fred.feedex/net.fred.feedex.activity.HomeActivity}" drawable="feed" />
+
     <!--Other-->
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
     <item component="ComponentInfo{me.danielbarnett.addresstogps/me.danielbarnett.AddressToGPS.MainActivity}" drawable="addresstogps"/>
