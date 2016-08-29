@@ -8,6 +8,11 @@
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
 
+    <!--Dav-->
+    <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.MainActivity}" drawable="davdroid" />
+    <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" drawable="davdroid" />
+    <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.MainActivity}" drawable="davdroid" />
+
     <!--Games-->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="game2048" />
 

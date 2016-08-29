@@ -1,5 +1,9 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+### v0.7.1
+* added icons
+    * DavDroid
+
 ### v0.7
 * added icons
     * SimpleRSS
