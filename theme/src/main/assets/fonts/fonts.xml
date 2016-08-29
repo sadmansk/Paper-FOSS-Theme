@@ -27,20 +27,20 @@
     <alias name="verdana" to="sans-serif" />
 
     <family name="sans-serif-condensed">
-        <font weight="300" style="normal">RobotoCondensed-Light.ttf</font>
-        <font weight="300" style="italic">RobotoCondensed-LightItalic.ttf</font>
-        <font weight="400" style="normal">RobotoCondensed-Regular.ttf</font>
-        <font weight="400" style="italic">RobotoCondensed-Italic.ttf</font>
-        <font weight="700" style="normal">RobotoCondensed-Bold.ttf</font>
-        <font weight="700" style="italic">RobotoCondensed-BoldItalic.ttf</font>
+        <font weight="300" style="normal">SourceCodePro-Light.ttf</font>
+        <font weight="300" style="italic">SourceCodePro-LightItalic.ttf</font>
+        <font weight="400" style="normal">SourceCodePro-Regular.ttf</font>
+        <font weight="400" style="italic">SourceCodePro-It.ttf</font>
+        <font weight="700" style="normal">SourceCodePro-Bold.ttf</font>
+        <font weight="700" style="italic">SourceCodePro-BoldIt.ttf</font>
     </family>
     <alias name="sans-serif-condensed-light" to="sans-serif-condensed" weight="300" />
 
     <family name="serif">
-        <font weight="400" style="normal">NotoSerif-Regular.ttf</font>
-        <font weight="700" style="normal">NotoSerif-Bold.ttf</font>
-        <font weight="400" style="italic">NotoSerif-Italic.ttf</font>
-        <font weight="700" style="italic">NotoSerif-BoldItalic.ttf</font>
+        <font weight="400" style="normal">SourceCodePro-Regular.ttf</font>
+        <font weight="700" style="normal">SourceCodePro-Bold.ttf</font>
+        <font weight="400" style="italic">SourceCodePro-It.ttf</font>
+        <font weight="700" style="italic">SourceCodePro-BoldIt.ttf</font>
     </family>
     <alias name="times" to="serif" />
     <alias name="times new roman" to="serif" />
