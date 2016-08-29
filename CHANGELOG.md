@@ -10,6 +10,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 
 * other
     * added Source Sans Pro Font
+    * added Wallpaper
 
 ### v0.6.2
 * added icons

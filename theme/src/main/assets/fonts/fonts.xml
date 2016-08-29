@@ -2,18 +2,18 @@
 <familyset version="22">
     <!-- first font is default -->
     <family name="sans-serif">
-        <font weight="50" style="normal">SourceCodePro-ExtraLight.ttf</font>
-        <font weight="50" style="italic">SourceCodePro-ExtraLightIt.ttf</font>
-        <font weight="200" style="normal">SourceCodePro-Light.ttf</font>
-        <font weight="200" style="italic">SourceCodePro-LightItalic.ttf</font>
-        <font weight="300" style="normal">SourceCodePro-Regular.ttf</font>
-        <font weight="300" style="italic">SourceCodePro-It.ttf</font>
-        <font weight="400" style="normal">SourceCodePro-Medium.ttf</font>
-        <font weight="400" style="italic">SourceCodePro-MediumIt.ttf</font>
-        <font weight="800" style="normal">SourceCodePro-Black.ttf</font>
-        <font weight="800" style="italic">SourceCodePro-BlackIt.ttf</font>
-        <font weight="600" style="normal">SourceCodePro-Bold.ttf</font>
-        <font weight="600" style="italic">SourceCodePro-BoldIt.ttf</font>
+        <font weight="50" style="normal">poppins-latin-300.ttf</font>
+        <font weight="50" style="italic">poppins-latin-300.ttf</font>
+        <font weight="200" style="normal">poppins-latin-300.ttf</font>
+        <font weight="200" style="italic">poppins-latin-300.ttf</font>
+        <font weight="300" style="normal">poppins-latin-regular.ttf</font>
+        <font weight="300" style="italic">poppins-latin-regular.ttf</font>
+        <font weight="400" style="normal">poppins-latin-500.ttf</font>
+        <font weight="400" style="italic">poppins-latin-500.ttf</font>
+        <font weight="800" style="normal">poppins-latin-600.ttf</font>
+        <font weight="800" style="italic">poppins-latin-600.ttf</font>
+        <font weight="600" style="normal">poppins-latin-700.ttf</font>
+        <font weight="600" style="italic">poppins-latin-700.ttf</font>
     </family>
 
     <!-- Note that aliases must come after the fonts they reference. -->
@@ -27,20 +27,20 @@
     <alias name="verdana" to="sans-serif" />
 
     <family name="sans-serif-condensed">
-        <font weight="200" style="normal">SourceCodePro-Light.ttf</font>
-        <font weight="200" style="italic">SourceCodePro-LightItalic.ttf</font>
-        <font weight="300" style="normal">SourceCodePro-Regular.ttf</font>
-        <font weight="300" style="italic">SourceCodePro-It.ttf</font>
-        <font weight="600" style="normal">SourceCodePro-Bold.ttf</font>
-        <font weight="600" style="italic">SourceCodePro-BoldIt.ttf</font>
+        <font weight="200" style="normal">poppins-latin-300.ttf</font>
+        <font weight="200" style="italic">poppins-latin-300.ttf</font>
+        <font weight="300" style="normal">poppins-latin-regular.ttf</font>
+        <font weight="300" style="italic">poppins-latin-regular.ttf</font>
+        <font weight="400" style="normal">poppins-latin-500.ttf</font>
+        <font weight="400" style="italic">poppins-latin-500.ttf</font>
     </family>
     <alias name="sans-serif-condensed-light" to="sans-serif-condensed" weight="300" />
 
     <family name="serif">
-        <font weight="300" style="normal">SourceCodePro-Regular.ttf</font>
-        <font weight="600" style="normal">SourceCodePro-Bold.ttf</font>
-        <font weight="300" style="italic">SourceCodePro-It.ttf</font>
-        <font weight="600" style="italic">SourceCodePro-BoldIt.ttf</font>
+        <font weight="300" style="normal">poppins-latin-regular.ttf</font>
+        <font weight="300" style="italic">poppins-latin-regular.ttf</font>
+        <font weight="600" style="normal">poppins-latin-500.ttf</font>
+        <font weight="600" style="italic">poppins-latin-500.ttf</font>
     </family>
     <alias name="times" to="serif" />
     <alias name="times new roman" to="serif" />
@@ -52,27 +52,27 @@
     <alias name="ITC Stone Serif" to="serif" />
 
     <family name="monospace">
-        <font weight="300" style="normal">DroidSansMono.ttf</font>
+        <font weight="300" style="normal">poppins-latin-regular.ttf</font>
     </family>
     <alias name="sans-serif-monospace" to="monospace" />
     <alias name="monaco" to="monospace" />
 
     <family name="serif-monospace">
-        <font weight="300" style="normal">CutiveMono.ttf</font>
+        <font weight="300" style="normal">poppins-latin-regular.ttf</font>
     </family>
     <alias name="courier" to="serif-monospace" />
     <alias name="courier new" to="serif-monospace" />
 
     <family name="casual">
-        <font weight="300" style="normal">ComingSoon.ttf</font>
+        <font weight="300" style="normal">poppins-latin-regular.ttf</font>
     </family>
 
     <family name="cursive">
-        <font weight="300" style="normal">DancingScript-Regular.ttf</font>
-        <font weight="600" style="normal">DancingScript-Bold.ttf</font>
+        <font weight="300" style="normal">poppins-latin-regular.ttf</font>
+        <font weight="600" style="normal">poppins-latin-500.ttf</font>
     </family>
 
     <family name="sans-serif-smallcaps">
-        <font weight="300" style="normal">CarroisGothicSC-Regular.ttf</font>
+        <font weight="300" style="normal">poppins-latin-regular.ttf</font>
     </family>
 </familyset>
