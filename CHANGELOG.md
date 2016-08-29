@@ -1,4 +1,10 @@
-I'm using some icons for serveral apps. So if some apps are using the same icons or if something other went wrong, create a issue.
+I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
+
+### v0.6.2
+* fix
+    * Camera
+    * Contacts
+    * SMS
 
 ### v0.6.1
 * added icons
