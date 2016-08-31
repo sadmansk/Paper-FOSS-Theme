@@ -8,8 +8,8 @@ android {
         applicationId "com.kn.paper_foss_theme"
         minSdkVersion 21
         targetSdkVersion 21
-        versionCode 9
-        versionName "0.7"
+        versionCode 10
+        versionName "0.7.1"
     }
     buildTypes {
         release {
