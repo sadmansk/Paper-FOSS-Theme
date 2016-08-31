@@ -3,6 +3,8 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 ### v0.7.1
 * added icons
     * DavDroid
+    * falling for reddit
+    * RedReader
 
 ### v0.7
 * added icons
