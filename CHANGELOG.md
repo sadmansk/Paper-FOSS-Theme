@@ -4,6 +4,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 * added icons
     * aLogcat
     * aLogcat ROOT
+    * CatLog
 
 ### v0.7.1
 * added icons

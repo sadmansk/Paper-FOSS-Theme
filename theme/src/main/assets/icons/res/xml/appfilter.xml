@@ -14,8 +14,9 @@
     <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.MainActivity}" drawable="davdroid" />
 
     <!--Log-->
-    <item component="ComponentInfo{org.jtb.alogcat/org.jtb.alogcat.LogActivity}" drawable="alogcat" />
-    <item component="ComponentInfo{rs.pedjaapps.alogcatroot.app/rs.pedjaapps.alogcatroot.app.LogActivity}" drawable="alogcatroot" />
+    <item component="ComponentInfo{org.jtb.alogcat/org.jtb.alogcat.LogActivity}" drawable="log" />
+    <item component="ComponentInfo{rs.pedjaapps.alogcatroot.app/rs.pedjaapps.alogcatroot.app.LogActivity}" drawable="log" />
+    <item component="ComponentInfo{com.nolanlawson.logcat/com.nolanlawson.logcat.LogcatActivity}" drawable="log" />
 
     <!--Games-->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="game2048" />
