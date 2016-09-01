@@ -6,6 +6,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * aLogcat ROOT
     * CatLog
     * TintBrowser
+    * Battery Level
     
 ### v0.7.1
 * added icons

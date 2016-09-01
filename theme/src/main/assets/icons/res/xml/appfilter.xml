@@ -30,6 +30,9 @@
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
     <item component="ComponentInfo{org.tint/org.tint.ui.activities.TintBrowserActivity}" drawable="browser" />
 
+    <!--Battery-->
+    <item component="ComponentInfo{ch.rrelmy.android.batterymanager/ch.rrelmy.android.batterymanager.Main}" drawable="batterylevel" />
+
     <!--Stores-->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
