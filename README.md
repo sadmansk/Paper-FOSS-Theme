@@ -21,10 +21,10 @@ My bitcoin address
 
 ## Screenshots
 
-<img src="theme/src/main/assets/screens/1.png" height="350px" alt="1">
-<img src="theme/src/main/assets/screens/2.png" height="350px" alt="2">
-<img src="theme/src/main/assets/screens/3.png" height="350px" alt="3">
-<img src="theme/src/main/assets/screens/4.png" height="350px" alt="4">
-<img src="theme/src/main/assets/screens/5.png" height="350px" alt="5">
-<img src="theme/src/main/assets/screens/6.png" height="350px" alt="6">
-<img src="theme/src/main/assets/screens/7.png" height="350px" alt="7">
+[<img src="theme/src/main/assets/screens/1thumb.png" height="350px" alt="1">](theme/src/main/assets/screens/1.png)
+[<img src="theme/src/main/assets/screens/2thumb.png" height="350px" alt="2">](theme/src/main/assets/screens/2.png)
+[<img src="theme/src/main/assets/screens/3thumb.png" height="350px" alt="3">](theme/src/main/assets/screens/3.png)
+[<img src="theme/src/main/assets/screens/4thumb.png" height="350px" alt="4">](theme/src/main/assets/screens/4.png)
+[<img src="theme/src/main/assets/screens/5thumb.png" height="350px" alt="5">](theme/src/main/assets/screens/5.png)
+[<img src="theme/src/main/assets/screens/6thumb.png" height="350px" alt="6">](theme/src/main/assets/screens/6.png)
+[<img src="theme/src/main/assets/screens/7thumb.png" height="350px" alt="7">](theme/src/main/assets/screens/7.png)
