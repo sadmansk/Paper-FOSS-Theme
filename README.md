@@ -21,10 +21,10 @@ My bitcoin address
 
 ## Screenshots
 
-<img src="theme/src/main/assets/screens/1.png" alt="1">
-<img src="theme/src/main/assets/screens/2.png" alt="2">
-<img src="theme/src/main/assets/screens/3.png" alt="3">
-<img src="theme/src/main/assets/screens/4.png" alt="4">
-<img src="theme/src/main/assets/screens/5.png" alt="5">
-<img src="theme/src/main/assets/screens/6.png" alt="6">
-<img src="theme/src/main/assets/screens/7.png" alt="7">
+<img src="theme/src/main/assets/screens/1.png" height="350px" alt="1">
+<img src="theme/src/main/assets/screens/2.png" height="350px" alt="2">
+<img src="theme/src/main/assets/screens/3.png" height="350px" alt="3">
+<img src="theme/src/main/assets/screens/4.png" height="350px" alt="4">
+<img src="theme/src/main/assets/screens/5.png" height="350px" alt="5">
+<img src="theme/src/main/assets/screens/6.png" height="350px" alt="6">
+<img src="theme/src/main/assets/screens/7.png" height="350px" alt="7">
