@@ -7,6 +7,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * CatLog
     * TintBrowser
     * Battery Level
+    * BatteryFu
     
 ### v0.7.1
 * added icons

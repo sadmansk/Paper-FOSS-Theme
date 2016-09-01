@@ -32,6 +32,7 @@
 
     <!--Battery-->
     <item component="ComponentInfo{ch.rrelmy.android.batterymanager/ch.rrelmy.android.batterymanager.Main}" drawable="batterylevel" />
+    <item component="ComponentInfo{com.tobykurien.batteryfu/.ModeSelect}" drawable="batteryfu" />
 
     <!--Stores-->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
