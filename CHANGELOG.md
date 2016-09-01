@@ -5,7 +5,8 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * aLogcat
     * aLogcat ROOT
     * CatLog
-
+    * TintBrowser
+    
 ### v0.7.1
 * added icons
     * DavDroid
