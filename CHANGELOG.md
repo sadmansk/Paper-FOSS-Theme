@@ -1,5 +1,11 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v0.7.3
+* added icons
+    * bitcoinium
+    * btcontract
+    * Bitcoin Wallet
+
 ### v0.7.2
 * added icons
     * aLogcat

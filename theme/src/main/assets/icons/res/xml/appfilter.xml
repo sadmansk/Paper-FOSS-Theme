@@ -369,4 +369,8 @@
     <!--Weather-->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.SplashActivity}" drawable="weather"/>
 
+    <!--Money-->
+    <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="btc" />
+    <item component="ComponentInfo{com.veken0m.bitcoinium/com.veken0m.bitcoinium.MainActivity}" drawable="btc" />
+    <item component="ComponentInfo{com.btcontract.wallet/.MainActivity}" drawable="btc" />
 </resources>
