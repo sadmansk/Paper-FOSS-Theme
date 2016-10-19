@@ -219,6 +219,7 @@
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderLauncher}" drawable="recorder" />
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorderTab}" drawable="recorder" />
     <item component="ComponentInfo{com.android.soundrecorder2/com.android.soundrecorder2.SoundRecorder2}" drawable="recorder" />
+    <item component="ComponentInfo{com.danielkim.soundrecorder/.activities.MainActivity}" drawable="recorder" />
     <item component="ComponentInfo{com.android.videoeditor/.ProjectsActivity}" drawable="videoeditor" />
     <item component="ComponentInfo{com.android.dreams.basic/.Colors}" drawable="wallpaper" />
     <item component="ComponentInfo{com.android.dreams.phototable/.FlipperDreamSettings}" drawable="wallpaper" />
@@ -320,6 +321,11 @@
     <item component="ComponentInfo{com.btmura.android.reddit/.MainActivity}" drawable="reddit" />
     <item component="ComponentInfo{org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity}" drawable="reddit" />
 
+    <!--Network-->
+    <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="vpn" />
+    <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.AllowedVPNsChooser}" drawable="vpn" />
+    <item component="ComponentInfo{de.blinkt.vpndialogxposed/de.blinkt.vpndialogxposed.AllowedVPNsChooser}" drawable="vpn" />
+
     <!--Mail-->
     <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="mail_secure" />
 
@@ -365,6 +371,7 @@
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepass" />
     <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.KeyListActivity}" drawable="keychain" />
     <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="keychain" />
+    <item component="ComponentInfo{com.zeapo.pwdstore/.PasswordStore}" drawable="passwordstore" />
 
     <!--Weather-->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.SplashActivity}" drawable="weather"/>
