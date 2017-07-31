@@ -1,30 +1,67 @@
-# Paper FOSS Theme
+# ICEcons
 
-This theme based on the [GTK Icon Theme Paper](https://github.com/snwh/paper-icon-theme) from [Sam Hewitt](https://samuelhewitt.com/)
+An icon pack forked from [ICEcons by 1C3](https://github.com/1C3/ICEcons) with a goal of providing icons mostly for **F-Droid** and other **FOSS** apps. Designed to look *clean and simple*, featuring only white color and transparency for a satisfying see-through effect. (See illustration below)
 
-## FOSS
-This icons only support FOSS Apps, most of them stored in FDroid.
+Support for Trebuchet (CM/LOS), KISS, Nova, Apex, Holo, ZenUI (ASUS), ADW and many more launchers although not applicable via the app itself.
 
-Paper FOSS Theme is a Material Design inspired theme for Android Lollipop aiming to provide a consistent and minimalistic look to your device. It is based on several other CM12 themes.
-A device running the Cyanogenmod 12 ROM or any other rom compatible with the CM12 theme engine is needed to use the theme.
+There are about **270 icons** as well as a few **4K wallpapers** included. Submitting **icon requests** helps a lot, but maintaining the project as you may imagine takes a lot of time and effort so please be patient about adding new icons or contribute some yourself.
 
-* [Changelog](https://github.com/beli3ver/Paper-FOSS-Theme/blob/master/CHANGELOG.md)
+## Download
 
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/com.kn.paper_foss_theme)
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it 
+on F-Droid" 
+height="90">](https://f-droid.org/app/com.dkanada.icecons/)
 
-My bitcoin address
-```xml
-1HtFGvPieXqwiYrTPmN2xyF1BVkQJfhoSh
+## Icon Requests
+
+The app doesn't have an icon request feature so you'll have to do the following steps:
+
+1. **Install [Turtl](https://f-droid.org/app/org.xphnx.iconsubmit)**, an app which extracts icon images and xml data from apps and packs these in a convenient .zip file.
+2. **Open Turtl**, select the missing icons and tap "Send Request". Don't select any option, **close Turtl**.
+3. **Obtain the .zip file** located in your device's internal storage in a folder named ".icon_request". _It's **hidden** so make sure to enable viewing hidden files in your file manager_.
+4. **[Make an issue](https://github.com/dkanada/ICEcons/issues/new)** titled "Icon Request" and attach the .zip file.
+
+If Turtl is not working on your device, you can also use [Applications 
+Info](https://f-droid.org/app/com.majeur.applicationsinfo) to collect 
+- the **package name** of the app ( $PACKAGE_NAME )
+- the **main activity name** of the app ( $ACTIVITY_NAME ), launchable in Applicationsinfo + no error)
+Unfortunately, you can't collect the icon via Applicationsinfo - you will need to 
+
 ```
+cd ~
+mkdir $PACKAGE_NAME; 
+mkdir collection
+#from computer via ADB 
+adb pull /data/app/${PACKAGE_NAME}-1/base.apk $PACKAGE_NAME/; 
+#from terminal app on android: 
+cp /data/app/${PACKAGE_NAME}-1/base.apk $PACKAGE_NAME/
+cd $PACKAGE_NAME; unzip base.apk; cd res/drawable-xxhdpi*; 
+mv ic_launcher.png ~/collection/${PACKAGE_NAME}__${ACTIVITY_NAME}.png
+cd ~
+``` 
+All png icon request icons should now be located at ~/collection/*. 
+Zip this folder and follow steps 3 + 4 just like with Turtl. 
 
-## Screenshots
+Work is being done to simplify this process.
 
-[<img src="theme/src/main/assets/screens/1thumb.png" height="350px" alt="1">](theme/src/main/assets/screens/1.png)
-[<img src="theme/src/main/assets/screens/2thumb.png" height="350px" alt="2">](theme/src/main/assets/screens/2.png)
-[<img src="theme/src/main/assets/screens/3thumb.png" height="350px" alt="3">](theme/src/main/assets/screens/3.png)
-[<img src="theme/src/main/assets/screens/4thumb.png" height="350px" alt="4">](theme/src/main/assets/screens/4.png)
-[<img src="theme/src/main/assets/screens/5thumb.png" height="350px" alt="5">](theme/src/main/assets/screens/5.png)
-[<img src="theme/src/main/assets/screens/6thumb.png" height="350px" alt="6">](theme/src/main/assets/screens/6.png)
-[<img src="theme/src/main/assets/screens/7thumb.png" height="350px" alt="7">](theme/src/main/assets/screens/7.png)
+## Contributing
+
+### **Help with any aspect of the app is much appreciated!**
+
+We would eventually like to port [moonshine](https://github.com/natewren/moonshine-iconpack) if we ever have the time using the code from this app.
+
+**You don't have to know how to code** if you know how to work with vectors in a program that supports the SVG format.
+[Inkscape](https://inkscape.org/en/) is recommended, but not necessary.
+
+Please read the [guide on contributing](CONTRIBUTING.md) before! It also includes some (personal) tips on how to work with Inkscape. If you don't use Inkscape, please ignore these tips. 
+
+Quick guide for adding your icons:
+1. Fork the repository to your GitHub account.
+2. Download the templates provided [here](templates) and make the icons as close to these as possible.
+3. Upload the SVG icons to your repository's **/other** folder.
+4. Create a pull request and explain your changes (*e.g. Add new SVGs*).
+5. Provide the AppActivity names of the apps that you've added icons for (obtained by Turtl or any other means). These should look something like this: `com.dkanada.icecons/com.dkanada.icecons.MainActivity` **OR** if you want to help even more edit the appfilter.xml file located in app/src/main/res/xml/ by adding the AppActivity and the rest of the information needed there.
+
+## Illustration
+
+<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/icons.jpg'/>
