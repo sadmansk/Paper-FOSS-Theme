@@ -3,6 +3,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 ## v1.0.1
 * Change icon
     * Git
+    * SIM
 
 ## v1.0.0
 * added support for launcher
