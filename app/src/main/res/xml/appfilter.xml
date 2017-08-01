@@ -238,6 +238,7 @@
     <!--FileManager-->
     <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="filemanager"/>
+    <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="mc"/>
 
 
     <!--Cyanogendmod-->

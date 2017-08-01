@@ -1,5 +1,9 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v1.0.2
+* Added icons
+    * Ghost Commander
+
 ## v1.0.1
 * Change all icons
 * Added icons
