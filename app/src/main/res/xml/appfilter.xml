@@ -214,6 +214,7 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
     <item component="ComponentInfo{com.android.voicedialer/com.android.voicedialer.VoiceDialerActivity}" drawable="voicedialer" />
     <item component="ComponentInfo{org.cyanogenmod.voiceplus/org.cyanogenmod.voiceplus.VoicePlusSetup}" drawable="recorder" />
+    <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="recorder"/>
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.AsusRecorder}" drawable="recorder" />
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.HQSoundRecorder}" drawable="recorder" />
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}" drawable="recorder" />
@@ -321,7 +322,8 @@
     <item component="ComponentInfo{org.tasks/org.tasks.activities.TimePickerActivity}" drawable="todo" />
     <item component="ComponentInfo{nl.mpcjanssen.simpletask/nl.mpcjanssen.simpletask.Simpletask}" drawable="todo"/>
     <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
-
+    <item component="ComponentInfo{com.twistedplane.sealnote/com.twistedplane.sealnote.SealnoteActivity}" drawable="sealnote"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="supersu"/>
 
 
     <!--Internet-->
@@ -349,6 +351,7 @@
     <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seafile" />
     <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
     <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
+    <item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
     <item component="ComponentInfo{org.primftpd/org.primftpd.PrimitiveFtpdActivity}" drawable="ftp" />
 
     <!--RSS-->
@@ -391,6 +394,8 @@
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.SplashActivity}" drawable="weather"/>
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="weather"/>
 
+    <!--Radio-->
+    <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio"/>
 
     <!--Money-->
     <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="btc" />

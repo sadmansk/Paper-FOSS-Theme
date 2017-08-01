@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         LinearLayout frameLayout = new LinearLayout(this);
         frameLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT));
-        frameLayout.setBackgroundColor(0xffffffff);
+        frameLayout.setBackgroundColor(ContextCompat.getColor(getApplicationContext(), R.color.colorAccent));
         frameLayout.setGravity(Gravity.CENTER);
         setContentView(frameLayout);
 
@@ -68,8 +68,8 @@ public class MainActivity extends AppCompatActivity {
 
         TextView iconText = new TextView(this);
         iconText.setText("icons");
-        iconText.setTextSize(24);
-        iconText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        iconText.setTextSize(35);
+        iconText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         iconText.setPadding(64, 64, 64, 64);
         iconClickLayout.addView(iconText);
 
@@ -99,8 +99,8 @@ public class MainActivity extends AppCompatActivity {
 
         TextView sourceText = new TextView(this);
         sourceText.setText("source");
-        sourceText.setTextSize(24);
-        sourceText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        sourceText.setTextSize(35);
+        sourceText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         sourceText.setPadding(64, 64, 64, 64);
         sourceClickLayout.addView(sourceText);
 
@@ -130,8 +130,8 @@ public class MainActivity extends AppCompatActivity {
 
         TextView aboutText = new TextView(this);
         aboutText.setText("license");
-        aboutText.setTextSize(24);
-        aboutText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        aboutText.setTextSize(35);
+        aboutText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         aboutText.setPadding(64, 64, 64, 64);
         aboutClickLayout.addView(aboutText);
     }

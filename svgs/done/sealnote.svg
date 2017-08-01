@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   width="64"
+   version="1"
+   id="svg29"
+   sodipodi:docname="accessories-notes.svg"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="858"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-25.898305"
+     inkscape:cy="32.167051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clipPath4483"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         d="m 91.5,254 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,25 c 0,0.831 0.669,1.5 1.5,1.5 l 16.5,0 10,-10 0,-16.5 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z"
+         style="fill:#fecd38"
+         id="path2" />
+    </clipPath>
+  </defs>
+  <path
+     style="opacity:0.2"
+     d="M 60,39 40,59 7,59 C 5.338,59 4,57.662 4,56 l 0,2 c 0,1.662 1.338,3 3,3 l 33,0 20,-20 0,-2 z"
+     id="path7" />
+  <path
+     style="fill:#fecd38"
+     d="M 8,4 C 8,4 4,4 4,8 l 0,48 c 0,4 4,4 4,4 L 40,60 60,40 60,8 C 60,4 56,4 56,4 Z"
+     id="path9" />
+  <path
+     style="opacity:0.2;enable-background:new"
+     d="m 118,272 -8.5,0 c -0.82843,0 -1.5,0.67158 -1.5,1.5 l 0,8.5 z"
+     clip-path="url(#clipPath4483)"
+     transform="matrix(2,0,0,2,-176,-504)"
+     id="path11" />
+  <path
+     style="fill:#ffe69b;enable-background:new"
+     d="m 60,40 -17,0 c -1.656,0 -3,1.344 -3,3 l 0,17 z"
+     id="path13" />
+  <path
+     style="opacity:0.1;fill:#ffffff;enable-background:new"
+     d="M 43 40 C 41.344 40 40 41.344 40 43 L 40 44 C 40 42.344 41.344 41 43 41 L 59 41 L 60 40 L 43 40 z"
+     id="path15" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 8 4 C 6.338 4 4 6.338 4 8 L 4 9 C 4 7.338 6.338 5 8 5 L 56 5 C 57.662 5 60 7.338 60 9 L 60 8 C 60 6.338 57.662 4 56 4 L 8 4 z"
+     id="path17" />
+  <g
+     style="opacity:0.5"
+     transform="matrix(2,0,0,2,0,-4)"
+     id="g27">
+    <path
+       style="opacity:1;enable-background:new"
+       d="m 10,11 0,-1 12,0 0,1 z"
+       id="path19" />
+    <path
+       style="opacity:1;enable-background:new"
+       d="m 10,14 0,-1 12,0 0,1 z"
+       id="path21" />
+    <path
+       style="opacity:1;enable-background:new"
+       d="m 10,17 0,-1 12,0 0,1 z"
+       id="path23" />
+    <path
+       style="opacity:1;enable-background:new"
+       d="m 10,20 0,-1 8,0 0,1 z"
+       id="path25" />
+  </g>
+  <g
+     transform="matrix(1.125,0,0,0.975,-5.2542373,31.315254)"
+     id="g164">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 16,5 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,1 a 2.9999997,2.9999997 0 0 1 3,3 2.9999997,2.9999997 0 0 1 -3,3 2.9999997,2.9999997 0 0 1 -3,-3 2.9999997,2.9999997 0 0 1 3,-3 z"
+       style="fill:#ffffff;stroke-width:2.02315474;stroke-linecap:round;stroke-linejoin:round"
+       id="path160" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 13,15 v 9.933594 L 16,27 19,24.933594 v -0.867188 l 1,-1 -1,-1 V 21 L 21,19.5 19,18 v -3 z m 1,3 h 1 v 6 h -1 z"
+       style="fill:#ffffff;stroke-width:2.21646166;stroke-linecap:round;stroke-linejoin:round"
+       id="path162" />
+  </g>
+</svg>

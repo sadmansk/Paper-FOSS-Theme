@@ -3,6 +3,13 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 ## v1.0.2
 * Added icons
     * Ghost Commander
+    * Radio
+    * SealNote
+    * SuperSU
+    * Nextcloud
+* Fixed
+    * Recorder
+    * Mail
 
 ## v1.0.1
 * Change all icons
