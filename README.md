@@ -8,5 +8,5 @@ Only apps from the F-Droid Store will be supported.
 Please request icons for your apps.
 
 ## Installation
-[![FDROID](https://raw.githubusercontent.com/beli3ver/Paper-FOSS-Theme/blob/master/gitlab/fdroid.png)](https://f-droid.org/packages/com.kn.paper_foss_theme/)
+[![FDROID](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/fdroid.png)](https://f-droid.org/packages/com.kn.paper_foss_theme/)
 
