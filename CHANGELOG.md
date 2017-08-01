@@ -1,5 +1,9 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v1.0.1
+* Change icon
+    * Git
+
 ## v1.0.0
 * added support for launcher
 
