@@ -2,7 +2,19 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 
 ## v1.0.1
 * Change all icons
+* Added icons
+    * Android Cups
+    * SimpleTask
+    * Etar
+    * Forecastie
+* Fixed Licence
 * Fixed some icons
+    * MapsMe
+    * NewPipe
+    * Lightning
+    * AudioFx
+    * Browser
+    * Files
 
 ## v1.0.0
 * added support for launcher

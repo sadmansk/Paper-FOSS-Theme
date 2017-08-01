@@ -66,6 +66,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.pdf,
             R.drawable.phone,
             R.drawable.podcast,
+            R.drawable.printer,
             R.drawable.recorder,
             R.drawable.recorder,
             R.drawable.reddit,

@@ -28,6 +28,8 @@
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
     <item component="ComponentInfo{com.anddevw.getchromium/com.anddevw.getchromium.GetChromium}" drawable="getchromium" />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
+    <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightning"/>
+
     <item component="ComponentInfo{org.tint/org.tint.ui.activities.TintBrowserActivity}" drawable="browser" />
 
     <!--Battery-->
@@ -39,6 +41,7 @@
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
 
     <!--System-->
+    <item component="ComponentInfo{io.github.benoitduffez.cupsprint/io.github.benoitduffez.cupsprint.app.ManageManualPrintersActivity}" drawable="printer" />
     <item component="ComponentInfo{com.android.cp.stkmanager/com.android.cp.stkmanager.STKManagerActivity}" drawable="sim" />
     <item component="ComponentInfo{com.android.simcard/com.android.simcard.SimCardActivity}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/.StkLauncherActivity}" drawable="sim" />
@@ -62,6 +65,7 @@
     <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}" drawable="sim" />
     <item component="ComponentInfo{com.android.stklauncher/com.android.stklauncher.MainActivity}" drawable="sim" />
     <item component="ComponentInfo{com.mediatek.StkSelection/com.mediatek.StkSelection.StkSelection}" drawable="sim" />
+    <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser"/>
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="browser" />
@@ -233,9 +237,12 @@
 
     <!--FileManager-->
     <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="filemanager" />
-    
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="filemanager"/>
+
+
     <!--Cyanogendmod-->
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
+    <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx"/>
     <item component="ComponentInfo{com.cyanogenmod.filemanager.ics/com.cyanogenmod.filemanager.ics.activities.NavigationActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ChangeLogActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.PickerActivity}" drawable="filemanager" />
@@ -302,6 +309,7 @@
 
     <!--Navigation-->
     <item component="ComponentInfo{com.mapswithme.maps.libre/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
+    <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.SplashActivity}" drawable="mapsme"/>
 
     <!--Office-->
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="document_viewer"/>
@@ -310,11 +318,16 @@
     <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.ShortcutActivity}" drawable="todo" />
     <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="todo" />
     <item component="ComponentInfo{org.tasks/org.tasks.activities.TimePickerActivity}" drawable="todo" />
+    <item component="ComponentInfo{nl.mpcjanssen.simpletask/nl.mpcjanssen.simpletask.Simpletask}" drawable="todo"/>
+    <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+
 
 
     <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
     <item component="ComponentInfo{org.schabi.newpipe/.VideoItemListActivity}" drawable="youtube" />
+    <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="youtube"/>
+
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook"/>
     <item component="ComponentInfo{org.indywidualni.fblite/.activity.SplashActivity}" drawable="facebook" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="facebook" />
@@ -375,6 +388,8 @@
 
     <!--Weather-->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.SplashActivity}" drawable="weather"/>
+    <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="weather"/>
+
 
     <!--Money-->
     <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="btc" />

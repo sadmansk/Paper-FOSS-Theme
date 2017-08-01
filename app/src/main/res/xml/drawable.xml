@@ -52,6 +52,7 @@
     <item drawable="pdf" />
     <item drawable="phone" />
     <item drawable="podcast" />
+    <item drawable="printer" />
     <item drawable="recorder" />
     <item drawable="reddit" />
     <item drawable="scope" />
