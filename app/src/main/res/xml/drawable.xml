@@ -40,6 +40,8 @@
     <item drawable="keepass" />
     <item drawable="keychain" />
     <item drawable="lightning" />
+    <item drawable="linphone" />
+    <item drawable="litecoin" />
     <item drawable="log" />
     <item drawable="mail" />
     <item drawable="mail_Secure" />
@@ -56,6 +58,7 @@
     <item drawable="phone" />
     <item drawable="podcast" />
     <item drawable="printer" />
+    <item drawable="qtqr" />
     <item drawable="radio" />
     <item drawable="recorder" />
     <item drawable="reddit" />
