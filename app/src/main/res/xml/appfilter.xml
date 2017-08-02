@@ -406,4 +406,6 @@
     <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="btc" />
     <item component="ComponentInfo{com.veken0m.bitcoinium/com.veken0m.bitcoinium.MainActivity}" drawable="btc" />
     <item component="ComponentInfo{com.btcontract.wallet/.MainActivity}" drawable="btc" />
+    <item component="ComponentInfo{de.schildbach.wallet_ltc/de.schildbach.wallet.ui.WalletActivity}" drawable="litecoin"/>
+
 </resources>
