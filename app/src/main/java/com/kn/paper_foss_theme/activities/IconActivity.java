@@ -89,6 +89,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.terminal,
             R.drawable.themes,
             R.drawable.todo,
+            R.drawable.tor,
             R.drawable.tox,
             R.drawable.videoeditor,
             R.drawable.vim,

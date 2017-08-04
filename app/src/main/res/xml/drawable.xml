@@ -75,6 +75,7 @@
     <item drawable="terminal" />
     <item drawable="themes" />
     <item drawable="todo" />
+    <item drawable="tor" />
     <item drawable="tox" />
     <item drawable="videoeditor" />
     <item drawable="vim" />

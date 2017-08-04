@@ -309,10 +309,21 @@
     <item component="ComponentInfo{com.ubergeek42.WeechatAndroid.dev/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="irc" />
     <item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="irc" />
     <item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="irc" />
+    <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}" drawable="mastodon"/>
+    <item component="ComponentInfo{fr.xtof54.mousetodon/fr.xtof54.mousetodon.MouseApp}" drawable="mastodon" />
+    <item component="ComponentInfo{fr.gouv.etalab.mastodon/fr.gouv.etalab.mastodon.activities.SplashActivity}" drawable="mastodon"/>
+
 
     <!--Navigation-->
     <item component="ComponentInfo{com.mapswithme.maps.libre/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
     <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.SplashActivity}" drawable="mapsme"/>
+    <item component="ComponentInfo{com.zoffcc.applications.zanavi/com.zoffcc.applications.zanavi.Navit}" drawable="navi" />
+    <item component="ComponentInfo{org.navitproject.navit/org.navitproject.navit.Navit}" drawable="navi" />
+    <item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MainMenuActivity}" drawable="navi" />
+    <item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MainMenuActivity}" drawable="navi" />
+    <item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}" drawable="navi" />
+    <item component="ComponentInfo{net.osmand.sherpafy/net.osmand.sherpafy.SherpafyPluginActivity}" drawable="navi" />
+    <item component="ComponentInfo{net.osmand.srtmPlugin/net.osmand.srtmPlugin.SRTMPluginActivity}" drawable="navi" />
 
     <!--Office-->
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="document_viewer"/>
@@ -376,6 +387,14 @@
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="cal_color"/>
     <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="scope"/>
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="habit"/>
+
+    <!--Privacy-->
+    <item component="ComponentInfo{org.torproject.android/org.torproject.android.Orbot}" drawable="tor" />
+    <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotApp}" drawable="tor" />
+    <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="tor" />
+    <item component="ComponentInfo{org.torproject.android/org.torproject.android.settings.AppManager}" drawable="tor" />
+    <item component="ComponentInfo{org.torproject.android/org.torproject.android.settings.SettingsPreferences}" drawable="tor" />
+    <item component="ComponentInfo{org.torproject.android/org.torproject.android.ui.OrbotLogActivity}" drawable="tor" />
 
     <!--Terminal-->
     <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />
