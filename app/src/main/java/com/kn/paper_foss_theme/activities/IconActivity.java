@@ -52,6 +52,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.habit,
             R.drawable.irc,
             R.drawable.jabber,
+            R.drawable.kalarm,
             R.drawable.keepass,
             R.drawable.keychain,
             R.drawable.lightning,
@@ -99,6 +100,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.weather,
             R.drawable.xabber,
             R.drawable.youtube,
+            R.drawable.zip,
     };
 
     private ArrayList<LinearLayout> layoutList = new ArrayList<>();

@@ -1,5 +1,11 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v1.0.5
+* Added icons
+    * ToGoZip
+    * Feeder
+    * Hourly Reminder
+
 ## v1.0.4
 * Added icons
     * Orbot

@@ -37,6 +37,7 @@
     <item drawable="hebit" />
     <item drawable="irc" />
     <item drawable="jabber" />
+    <item drawable="kalarm" />
     <item drawable="keepass" />
     <item drawable="keychain" />
     <item drawable="lightning" />
@@ -85,4 +86,5 @@
     <item drawable="weather" />
     <item drawable="xabber" />
     <item drawable="youtube" />
+    <item drawable="zip" />
 </resources>

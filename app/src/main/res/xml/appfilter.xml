@@ -338,13 +338,13 @@
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="supersu"/>
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}" drawable="qtqr" />
     <item component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}" drawable="qtqr" />
-
+    <item component="ComponentInfo{com.github.axet.hourlyreminder/com.github.axet.hourlyreminder.activities.MainActivity}" drawable="kalarm"/>
 
     <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
     <item component="ComponentInfo{org.schabi.newpipe/.VideoItemListActivity}" drawable="youtube" />
     <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="youtube"/>
-
+    <item component="ComponentInfo{de.k3b.android.toGoZip/de.k3b.android.toGoZip.SettingsActivity}" drawable="zip" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook"/>
     <item component="ComponentInfo{org.indywidualni.fblite/.activity.SplashActivity}" drawable="facebook" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="facebook" />
@@ -375,6 +375,7 @@
     <item component="ComponentInfo{net.etuldan.sparss/.MainApplication}" drawable="feed" />
     <item component="ComponentInfo{net.etuldan.sparss/net.etuldan.sparss.activity.HomeActivity}" drawable="feed" />
     <item component="ComponentInfo{net.fred.feedex/net.fred.feedex.activity.HomeActivity}" drawable="feed" />
+    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feed" />
 
     <!--Other-->
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
