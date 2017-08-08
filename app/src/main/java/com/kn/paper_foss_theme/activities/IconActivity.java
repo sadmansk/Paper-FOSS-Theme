@@ -34,6 +34,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.clock,
             R.drawable.contacts,
             R.drawable.conversation,
+            R.drawable.dash,
             R.drawable.davdroid,
             R.drawable.document_viewer,
             R.drawable.documents,

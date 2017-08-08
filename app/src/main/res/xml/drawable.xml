@@ -19,6 +19,7 @@
     <item drawable="clock" />
     <item drawable="contacts" />
     <item drawable="conversation" />
+    <item drawable="dash" />
     <item drawable="davdroid" />
     <item drawable="document_viewer" />
     <item drawable="documents" />
