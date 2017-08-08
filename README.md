@@ -17,6 +17,5 @@ You can look for icon that has been requested on our [Kanban Board](https://boar
 [![FDROID](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/3thumb.png)](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/3.png)
 [![FDROID](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/5thumb.png)](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/5.png)
 [![FDROID](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/6thumb.png)](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/6.png)
-[![FDROID](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/7thumb.png)](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/7.png)
 
 
