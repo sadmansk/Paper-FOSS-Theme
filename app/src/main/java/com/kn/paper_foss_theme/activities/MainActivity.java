@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void gitLink(View v) {
-        Uri uri = Uri.parse("https://gitlab.com/beli3ver/Paper-FOSS-Theme");
+        Uri uri = Uri.parse("https://github.com/beli3ver/Paper-FOSS-Theme");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
