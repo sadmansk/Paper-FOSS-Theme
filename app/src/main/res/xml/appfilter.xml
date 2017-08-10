@@ -312,7 +312,7 @@
     <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}" drawable="mastodon"/>
     <item component="ComponentInfo{fr.xtof54.mousetodon/fr.xtof54.mousetodon.MouseApp}" drawable="mastodon" />
     <item component="ComponentInfo{fr.gouv.etalab.mastodon/fr.gouv.etalab.mastodon.activities.SplashActivity}" drawable="mastodon"/>
-
+    <item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat" />
 
     <!--Navigation-->
     <item component="ComponentInfo{com.mapswithme.maps.libre/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
@@ -344,10 +344,12 @@
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
     <item component="ComponentInfo{org.schabi.newpipe/.VideoItemListActivity}" drawable="youtube" />
     <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="youtube"/>
+    <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube" />
     <item component="ComponentInfo{de.k3b.android.toGoZip/de.k3b.android.toGoZip.SettingsActivity}" drawable="zip" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook"/>
     <item component="ComponentInfo{org.indywidualni.fblite/.activity.SplashActivity}" drawable="facebook" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="facebook" />
+    <item component="ComponentInfo{com.danvelazco.fbwrapper/com.danvelazco.fbwrapper.FbWrapper}" drawable="facebook.png" />
     <item component="ComponentInfo{com.btmura.android.reddit/.MainActivity}" drawable="reddit" />
     <item component="ComponentInfo{org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity}" drawable="reddit" />
 
@@ -388,6 +390,7 @@
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="cal_color"/>
     <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="scope"/>
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="habit"/>
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
     <!--Privacy-->
     <item component="ComponentInfo{org.torproject.android/org.torproject.android.Orbot}" drawable="tor" />
@@ -413,7 +416,7 @@
     <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="keychain" />
     <item component="ComponentInfo{com.zeapo.pwdstore/.PasswordStore}" drawable="passwordstore" />
     <item component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}" drawable="passwordstore"/>
-
+    <item component="ComponentInfo{com.yubico.yubitotp/com.yubico.yubitotp.TotpActivity}" drawable="yubioath" />
 
     <!--Weather-->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.SplashActivity}" drawable="weather"/>

@@ -3,6 +3,11 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 ## v1.0.6
 * Added icons
     * Dash
+    * Fbwrapper
+    * Wikipedia
+    * Weechat
+    * Webtube
+    * Yubitotp
 
 ## v1.0.5
 * Added icons

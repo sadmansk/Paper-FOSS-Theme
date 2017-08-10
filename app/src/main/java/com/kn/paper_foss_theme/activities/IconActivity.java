@@ -99,8 +99,11 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.vpn,
             R.drawable.wallpaper,
             R.drawable.weather,
+            R.drawable.weechat,
+            R.drawable.wikipedia,
             R.drawable.xabber,
             R.drawable.youtube,
+            R.drawable.yubioath,
             R.drawable.zip,
     };
 
