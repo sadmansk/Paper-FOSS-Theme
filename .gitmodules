@@ -1,0 +1,3 @@
+[submodule "fdroid_apps_theming_data_and_original_icons"]
+	path = fdroid_apps_theming_data_and_original_icons
+	url = https://github.com/conrad-heimbold/fdroid_apps_theming_data_and_original_icons
