@@ -2,6 +2,12 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 
 ## v1.0.7
 * Added icons
+    * Fennec
+    * IceCat
+    * Twidere
+
+## v1.0.7
+* Added icons
     * Aard
     * Aard 2
 * Fixed

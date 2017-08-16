@@ -29,7 +29,8 @@
     <item component="ComponentInfo{com.anddevw.getchromium/com.anddevw.getchromium.GetChromium}" drawable="getchromium" />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightning"/>
-
+    <item component="ComponentInfo{org.gnu.icecat/org.gnu.icecat.App}" drawable="icecat"/>
+    <item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="fennec"/>
     <item component="ComponentInfo{org.tint/org.tint.ui.activities.TintBrowserActivity}" drawable="browser" />
 
     <!--Battery-->
@@ -313,6 +314,7 @@
     <item component="ComponentInfo{fr.xtof54.mousetodon/fr.xtof54.mousetodon.MouseApp}" drawable="mastodon" />
     <item component="ComponentInfo{fr.gouv.etalab.mastodon/fr.gouv.etalab.mastodon.activities.SplashActivity}" drawable="mastodon"/>
     <item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat" />
+    <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere"/>
 
     <!--Navigation-->
     <item component="ComponentInfo{com.mapswithme.maps.libre/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>

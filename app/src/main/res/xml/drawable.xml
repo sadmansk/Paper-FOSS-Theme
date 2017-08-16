@@ -27,6 +27,7 @@
     <item drawable="facebook" />
     <item drawable="fdroid" />
     <item drawable="feed" />
+    <item drawable="fennec" />
     <item drawable="filemanager" />
     <item drawable="firefox" />
     <item drawable="firewall" />
@@ -38,6 +39,7 @@
     <item drawable="goldendict" />
     <item drawable="hebit" />
     <item drawable="irc" />
+    <item drawable="icecat" />
     <item drawable="jabber" />
     <item drawable="kalarm" />
     <item drawable="keepass" />
@@ -80,6 +82,7 @@
     <item drawable="todo" />
     <item drawable="tor" />
     <item drawable="tox" />
+    <item drawable="twidere" />
     <item drawable="videoeditor" />
     <item drawable="vim" />
     <item drawable="vlc" />
