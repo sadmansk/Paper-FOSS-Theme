@@ -1,6 +1,6 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
-## v1.0.6
+## v1.0.7
 * Added icons
     * Aard
     * Aard 2
