@@ -50,6 +50,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.game2048,
             R.drawable.getchromium,
             R.drawable.git,
+            R.drawable.goldendict,
             R.drawable.habit,
             R.drawable.irc,
             R.drawable.jabber,

@@ -339,6 +339,8 @@
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}" drawable="qtqr" />
     <item component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}" drawable="qtqr" />
     <item component="ComponentInfo{com.github.axet.hourlyreminder/com.github.axet.hourlyreminder.activities.MainActivity}" drawable="kalarm"/>
+    <item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="goldendict" />
+    <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="goldendict" />
 
     <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
