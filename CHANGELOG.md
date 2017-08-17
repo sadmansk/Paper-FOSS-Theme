@@ -3,6 +3,10 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 ## v1.0.9
 * Added icons
     * debDroid
+    * Forcastie
+    * Good Weather
+    * Simple Weather
+    * Weather
 
 ## v1.0.8
 * Added icons
