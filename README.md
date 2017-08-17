@@ -11,6 +11,12 @@ You can look for icon that has been requested on our [Kanban Board](https://boar
 ## Installation
 [![FDROID](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/fdroid.png)](https://f-droid.org/packages/com.kn.paper_foss_theme/)
 
+## How can I contribute?
+There are many ways:
+1) Do icon requests for missing icons!
+2) Choose icon from the base theme, papirus, and add it to the repo with a pull request for a fdroid app.
+3) Create new icons that not be support by papirus, by mixing one with the parts of the existing one.
+
 ## Screens
 [![FDROID](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/3.png)](https://gitlab.com/beli3ver/Paper-FOSS-Theme/raw/master/gitlab/screens/3.png)
 
