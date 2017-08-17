@@ -7,6 +7,8 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * Good Weather
     * Simple Weather
     * Weather
+* Fixed
+    * Tinfoil for Facebook
 
 ## v1.0.8
 * Added icons
