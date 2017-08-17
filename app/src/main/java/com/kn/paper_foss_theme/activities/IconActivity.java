@@ -84,6 +84,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.radio,
             R.drawable.recorder,
             R.drawable.reddit,
+            R.drawable.redshift,
             R.drawable.scope,
             R.drawable.seafile,
             R.drawable.sealnote,

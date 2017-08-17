@@ -347,7 +347,6 @@
     <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="goldendict" />
     <item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="simplenote"/>
 
-
     <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
     <item component="ComponentInfo{org.schabi.newpipe/.VideoItemListActivity}" drawable="youtube" />
@@ -400,6 +399,8 @@
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="habit"/>
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
     <item component="ComponentInfo{io.github.gsantner.memetastic/io.github.gsantner.memetastic.activity.SplashActivity}" drawable="memetastic"/>
+    <item component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity}" drawable="redshift" />
+    <item component="ComponentInfo{info.papdt.blackblub/info.papdt.blackblub.ui.LaunchActivity}" drawable="redshift" />
 
     <!--Privacy-->
     <item component="ComponentInfo{org.torproject.android/org.torproject.android.Orbot}" drawable="tor" />

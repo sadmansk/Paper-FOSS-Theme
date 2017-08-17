@@ -7,6 +7,8 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * Good Weather
     * Memetastic
     * Minetest
+    * Night Screen
+    * Red Moon
     * Simple Note
     * Simple Weather
     * Weather
