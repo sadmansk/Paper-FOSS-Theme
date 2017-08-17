@@ -89,6 +89,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.sealnote,
             R.drawable.settings,
             R.drawable.sim,
+            R.drawable.simplenote,
             R.drawable.sms,
             R.drawable.sms_secure,
             R.drawable.supersu,
