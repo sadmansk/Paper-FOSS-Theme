@@ -40,6 +40,7 @@
     <!--Stores-->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
+    <item component="ComponentInfo{de.mangelow.debdroid/de.mangelow.debdroid.MainActivity}" drawable="debdroid" />
 
     <!--System-->
     <item component="ComponentInfo{io.github.benoitduffez.cupsprint/io.github.benoitduffez.cupsprint.app.ManageManualPrintersActivity}" drawable="printer" />
