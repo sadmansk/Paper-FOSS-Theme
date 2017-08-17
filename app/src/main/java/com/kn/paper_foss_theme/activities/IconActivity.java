@@ -67,6 +67,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.mail_secure,
             R.drawable.mapsme,
             R.drawable.mc,
+            R.drawable.memetastic,
             R.drawable.minetest,
             R.drawable.mumble,
             R.drawable.music,

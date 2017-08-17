@@ -397,6 +397,7 @@
     <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="scope"/>
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="habit"/>
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
+    <item component="ComponentInfo{io.github.gsantner.memetastic/io.github.gsantner.memetastic.activity.SplashActivity}" drawable="memetastic"/>
 
     <!--Privacy-->
     <item component="ComponentInfo{org.torproject.android/org.torproject.android.Orbot}" drawable="tor" />

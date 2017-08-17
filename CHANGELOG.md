@@ -5,6 +5,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * debDroid
     * Forcastie
     * Good Weather
+    * Memetastic
     * Minetest
     * Simple Weather
     * Weather
