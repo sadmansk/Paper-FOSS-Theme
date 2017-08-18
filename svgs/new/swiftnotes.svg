@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <defs>
+  <clipPath id="clipPath4483" clipPathUnits="userSpaceOnUse">
+   <path style="fill:#fecd38" d="m91.5 254c-0.831 0-1.5 0.669-1.5 1.5v25c0 0.831 0.669 1.5 1.5 1.5h16.5l10-10v-16.5c0-0.831-0.669-1.5-1.5-1.5z"/>
+  </clipPath>
+ </defs>
+ <path style="opacity:.2" d="m4 39 20 20h33c1.662 0 3-1.338 3-3v2c0 1.662-1.338 3-3 3h-33l-20-20z"/>
+ <path style="fill:#da0e38" d="m56 4s4 0 4 4v48c0 4-4 4-4 4h-32l-20-20v-32c0-4 4-4 4-4z"/>
+ <path style="opacity:.2;enable-background:new" d="m118 272h-8.5c-0.82843 0-1.5 0.67158-1.5 1.5v8.5z" clip-path="url(#clipPath4483)" transform="matrix(-2,0,0,2,240,-504)"/>
+ <path style="enable-background:new;fill:#f3395e" d="m4 40h17c1.656 0 3 1.344 3 3v17z"/>
+ <path style="opacity:.1;enable-background:new;fill:#fff" d="m21 40c1.656 0 3 1.344 3 3v1c0-1.656-1.344-3-3-3h-16l-1-1z"/>
+ <path style="opacity:.1;fill:#fff" d="m56 4c1.662 0 4 2.338 4 4v1c0-1.662-2.338-4-4-4h-48c-1.662 0-4 2.338-4 4v-1c0-1.662 2.338-4 4-4z"/>
+ <g style="fill:#ececec" transform="matrix(-2,0,0,2,64,-4)">
+  <path style="enable-background:new;fill:#ececec" d="m10 11v-1h12v1z"/>
+  <path style="enable-background:new;fill:#ececec" d="m10 14v-1h12v1z"/>
+  <path style="enable-background:new;fill:#ececec" d="m10 17v-1h12v1z"/>
+  <path style="enable-background:new;fill:#ececec" d="m10 20v-1h8v1z"/>
+ </g>
+</svg>

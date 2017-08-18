@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <rect style="opacity:.2" transform="matrix(0,-1,-1,0,0,0)" rx="2.8" ry="2.8" height="56" width="56" y="-60" x="-61"/>
+ <rect style="fill:#3680bb" transform="matrix(0,-1,-1,0,0,0)" rx="2.8" ry="2.8" height="56" width="56" y="-60" x="-60"/>
+ <path style="opacity:.2;fill:#fff" d="m6.8008 4c-1.5512 0-2.8008 1.2496-2.8008 2.8008v1c0-1.5512 1.2496-2.8008 2.8008-2.8008h50.398c1.551 0 2.801 1.2496 2.801 2.8008v-1c0-1.5512-1.25-2.8008-2.801-2.8008h-50.398z"/>
+ <path style="fill:#f2f2f2" d="m8 8v16h16v-16zm20 0v8h4v-4h4v-4h-4zm4 8v8h4v-8zm0 8h-4v4h4zm0 4v4h4v-4zm4 4v4h8v-8h-4v4zm8 4v4h4v4h4v-8zm8 0h4v-8h-8v4h4zm-8 4h-4v4h4zm-4 4h-4v4h4zm0 4v4h4v-4zm4 4v4h4v-4zm4 0h8v-4h-8zm-12-4h-8v4h4v4h4v-4zm0-4v-8h-8v4h4v4zm-8-8v-8h-4v4h-4v4zm-8-4v-4h-12v8h8v-4zm20-24v16h16v-16zm-28 4h8v8h-8zm32 0h8v8h-8zm-30 2v4h4v-4zm32 0v4h4v-4zm-38 26v16h16v-16zm4 4h8v8h-8zm2 2v4h4v-4z"/>
+</svg>

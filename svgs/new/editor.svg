@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <path style="opacity:.2" d="m10 56v2c0 1.662 1.338 3 3 3h38c1.662 0 3-1.338 3-3v-2c0 1.662-1.338 3-3 3h-38c-1.662 0-3-1.338-3-3z"/>
+ <path style="fill:#d7d7d7" d="m54 57v-50c0-1.662-1.338-3-3-3h-38c-1.662 0-3 1.338-3 3v50c0 1.662 1.338 3 3 3h38c1.662 0 3-1.338 3-3z"/>
+ <path style="opacity:.1;fill:#fff" d="m13 4c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h38c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-38z"/>
+ <path style="opacity:.2;enable-background:new;fill-rule:evenodd" d="m63.958 45.848a16 16 0 0 1 -15.958 15.152 16 16 0 0 1 -15.958 -14.848 16 16 0 0 0 -0.042 0.848 16 16 0 0 0 16 16 16 16 0 0 0 16 -16 16 16 0 0 0 -0.043 -1.152z"/>
+ <g style="fill:#2096cb" transform="matrix(2,0,0,2,6,0)">
+  <circle style="fill-rule:evenodd;fill:#2096cb;enable-background:new" cx="21" r="8" cy="23"/>
+ </g>
+ <path style="enable-background:new;fill:#fff" d="m40 50.436v3.564h3.5638l9.0008-9.0008-3.5638-3.5638zm15.717-8.5782c0.37696-0.37694 0.37696-0.9709 0-1.3479l-2.2274-2.2274c-0.37696-0.37696-0.97092-0.37696-1.3479 0l-1.862 1.874 3.564 3.564z"/>
+</svg>
