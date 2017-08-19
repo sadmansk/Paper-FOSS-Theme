@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.1" viewBox="0 0 64 64">
+ <polygon style="display:none;fill:#5a0e00" points="588 333 517.5 214 500 192 386 355 328 328 304 332.5 299.5 366 318.5 403.5 338 431 309.5 462 275.5 507 300 533 304 551 318.5 569.5 340.5 583 351.5 604.5 373.5 617 395 637.5 452.5 723 488.5 788.5 502 812.5 551.5 721.5 612.5 637 628.5 616 668 619.5 707 615 713 603 688.5 578 676.5 569.5 693.5 560.5 693.5 540 732.5 497.5 664 430.5" transform="matrix(.063142 0 0 .063142 -155 9.2379)" display="none"/>
+ <path style="opacity:.2" d="m60 58.2v-27.2h-56v27.2c0 1.551 1.2488 2.8 2.8 2.8h50.4c1.5512 0 2.8-1.2488 2.8-2.8z"/>
+ <rect ry="2.8" style="fill:#a02c2c" rx="2.8" transform="matrix(0,-1,-1,0,0,0)" height="56" width="56" y="-60" x="-60"/>
+ <path style="fill:#782121" d="m60 57.2v-26.2h-56v26.2c0 1.551 1.2488 2.8 2.8 2.8h50.4c1.5512 0 2.8-1.2488 2.8-2.8z"/>
+ <path style="stroke-width:2.3299;fill:#333" d="m16 8h32v19h-32m0-19"/>
+ <g style="opacity:.2" transform="matrix(1.7778 0 0 1.7778 -7.4916 -12.943)">
+  <circle cy="33.718" cx="31.964" r="1.5"/>
+  <g transform="translate(-4.556,16.288)">
+   <circle r="1.5" cx="30.52" cy="17.43"/>
+   <circle cy="-33.52" cx="14.43" r="1.5" transform="rotate(90)"/>
+  </g>
+  <circle cy="-28.964" cx="36.718" r="1.5" transform="rotate(90)"/>
+ </g>
+ <g style="fill:#ccc" transform="matrix(1.7778 0 0 1.7778 -7.4916 -13.943)">
+  <circle style="fill:#ccc" cx="31.964" r="1.5" cy="33.718"/>
+  <g style="fill:#ccc" transform="translate(-4.556,16.288)">
+   <circle cy="17.43" cx="30.52" r="1.5" style="fill:#ccc"/>
+   <circle style="fill:#ccc" cx="14.43" transform="rotate(90)" cy="-33.52" r="1.5"/>
+  </g>
+  <circle style="fill:#ccc" cx="36.718" transform="rotate(90)" cy="-28.964" r="1.5"/>
+ </g>
+ <rect style="opacity:.2;stroke-linejoin:round;stroke-width:9.1127;stroke-linecap:round;fill:#030304" height="2" width="56" y="31" x="4"/>
+ <rect style="opacity:.2;stroke-linejoin:round;stroke-width:20;stroke-linecap:round" height="2" width="8" y="20.5" x="6"/>
+ <rect style="opacity:.2;stroke-linejoin:round;stroke-width:20;stroke-linecap:round" height="2" width="8" y="16.5" x="6"/>
+ <rect style="opacity:.2;stroke-linejoin:round;stroke-width:20;stroke-linecap:round" height="2" width="8" y="12.5" x="6"/>
+ <rect style="opacity:.2;stroke-linejoin:round;stroke-width:20;stroke-linecap:round" height="2" width="8" y="20.5" x="50"/>
+ <rect style="opacity:.2;stroke-linejoin:round;stroke-width:20;stroke-linecap:round" height="2" width="8" y="16.5" x="50"/>
+ <rect style="opacity:.2;stroke-linejoin:round;stroke-width:20;stroke-linecap:round" height="2" width="8" y="12.5" x="50"/>
+ <path style="opacity:.2;fill:#fff" d="m6.8008 4c-1.5512 0-2.8008 1.2496-2.8008 2.8008v1c0-1.5512 1.2496-2.8008 2.8008-2.8008h50.398c1.551 0 2.801 1.2496 2.801 2.8008v-1c0-1.5512-1.25-2.8008-2.801-2.8008z"/>
+ <g style="opacity:.2" transform="matrix(1.7778 0 0 1.7778 -23.734 -18.34)">
+  <circle style="stroke-width:1.875" cx="36.754" transform="rotate(90)" cy="-24.038" r="2.8125"/>
+ </g>
+ <g style="fill:#ccc" transform="matrix(1.7778 0 0 1.7778 -23.734 -19.34)">
+  <circle style="stroke-width:1.875;fill:#ccc" cx="36.754" transform="rotate(90)" cy="-24.038" r="2.8125"/>
+ </g>
+</svg>

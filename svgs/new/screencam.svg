@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1">
+ <path style="opacity:.2;enable-background:new" d="m4 50v2c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-2c0 1.662-1.338 3-3 3h-50c-1.662 0-3-1.338-3-3z"/>
+ <rect style="enable-background:new;fill:#17aaf1" transform="matrix(0,-1,-1,0,0,0)" rx="3" ry="3" height="56" width="44" y="-60" x="-54"/>
+ <rect ry="0" style="enable-background:new;fill:#38b9ee" rx="0" transform="matrix(0,-1,-1,0,0,0)" height="48" width="36" y="-56" x="-50"/>
+ <path style="opacity:.8;enable-background:new;fill:#f2f2f2" d="m19 22c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h18c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2zm20 10 8 6v-12z"/>
+ <path style="opacity:.1;enable-background:new;fill:#fff" d="m7 9.998c-1.662 0-3 1.338-3 3v1.002c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3v-1.002c0-1.662-1.338-3-3-3h-50z"/>
+</svg>
