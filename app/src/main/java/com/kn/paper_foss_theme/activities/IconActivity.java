@@ -107,6 +107,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.supersu,
 	        R.drawable.swiftnotes,
             R.drawable.syncthing,
+            R.drawable.tinfoilfortwitter,
             R.drawable.telegram,
             R.drawable.terminal,
             R.drawable.themes,
