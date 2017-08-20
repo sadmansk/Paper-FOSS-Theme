@@ -5,6 +5,8 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * ConnectBot
     * Kontalk
     * mgit
+    * micropinner
+    * Open-Camera
     * Silence
     * SwiftNotes
     * Vanilla

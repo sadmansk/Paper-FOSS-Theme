@@ -57,6 +57,7 @@
     <item drawable="mc" />
     <item drawable="memetastic" />
     <item drawable="minetest" />
+    <item drawable="micropinner" />
     <item drawable="mgit" />
     <item drawable="mumble" />
     <item drawable="music" />
@@ -64,6 +65,7 @@
     <item drawable="nextcloud" />
     <item drawable="notes" />
     <item drawable="owncloud" />
+    <item drawable="open_camera" />
     <item drawable="passwordstore" />
     <item drawable="pdf" />
     <item drawable="phone" />
