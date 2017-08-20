@@ -122,6 +122,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.vlc,
             R.drawable.vpn,
             R.drawable.wallpaper,
+            R.drawable.wallabag,
             R.drawable.weather,
             R.drawable.weechat,
             R.drawable.wikipedia,

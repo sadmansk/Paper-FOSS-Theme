@@ -420,6 +420,10 @@
     <item component="ComponentInfo{io.github.gsantner.memetastic/io.github.gsantner.memetastic.activity.SplashActivity}" drawable="memetastic"/>
     <item component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity}" drawable="redshift" />
     <item component="ComponentInfo{info.papdt.blackblub/info.papdt.blackblub.ui.LaunchActivity}" drawable="redshift" />
+    <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.Poche}" drawable="wallabag" />
+    <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.ArticlesListActivity}" drawable="wallabag" />
+    <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.MainActivity}" drawable="wallabag"/>
+
 
     <!--Privacy-->
     <item component="ComponentInfo{org.torproject.android/org.torproject.android.Orbot}" drawable="tor" />

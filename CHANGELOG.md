@@ -18,6 +18,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * SwiftNotes
     * Tinfoil for Twitter
     * Vanilla
+    * Wallabag
     * Yalp Store
 * Changed
     * FDroid
