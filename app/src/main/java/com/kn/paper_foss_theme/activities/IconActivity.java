@@ -47,6 +47,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.fennec,
             R.drawable.filemanager,
             R.drawable.firefox,
+            R.drawable.firefox_klar,
             R.drawable.firewall,
             R.drawable.ftp,
             R.drawable.gallery,
