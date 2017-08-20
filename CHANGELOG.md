@@ -13,6 +13,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * Nextcloud Bookmarks
     * Nextcloud Notes
     * Open-Camera
+    * Screencam
     * Silence
     * SwiftNotes
     * Tinfoil for Twitter
