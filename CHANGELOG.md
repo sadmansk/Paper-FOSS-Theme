@@ -21,6 +21,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * Yalp Store
 * Changed
     * FDroid
+    * Termux
 
 ## v1.0.9
 * Added icons
