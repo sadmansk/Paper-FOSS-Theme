@@ -49,6 +49,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.firefox,
             R.drawable.firefox_klar,
             R.drawable.firewall,
+            R.drawable.forkhub,
             R.drawable.ftp,
             R.drawable.gallery,
             R.drawable.game2048,
