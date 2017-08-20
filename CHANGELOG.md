@@ -7,6 +7,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * mgit
     * micropinner
     * Nextcloud Bookmarks
+    * Nextcloud Notes
     * Open-Camera
     * Silence
     * SwiftNotes
