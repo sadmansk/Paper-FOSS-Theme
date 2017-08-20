@@ -63,6 +63,7 @@
     <item drawable="music" />
     <item drawable="netguard" />
     <item drawable="nextcloud" />
+    <item drawable="nextcloud_bookmarks" />
     <item drawable="notes" />
     <item drawable="owncloud" />
     <item drawable="open_camera" />

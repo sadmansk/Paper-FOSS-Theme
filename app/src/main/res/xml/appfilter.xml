@@ -353,6 +353,8 @@
     <item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="simplenote"/>
     <item component="ComponentInfo{com.moonpi.swiftnotes/com.moonpi.swiftnotes.MainActivity}" drawable="swiftnotes" />
     <item component="ComponentInfo{de.dotwee.micropinner/de.dotwee.micropinner.view.MainDialog}" drawable="micropinner" />
+    <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloud_bookmarks" />
+
 
 
     <!--Internet-->

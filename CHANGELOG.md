@@ -6,6 +6,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * Kontalk
     * mgit
     * micropinner
+    * Nextcloud Bookmarks
     * Open-Camera
     * Silence
     * SwiftNotes
