@@ -42,6 +42,7 @@
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
     <item component="ComponentInfo{de.mangelow.debdroid/de.mangelow.debdroid.MainActivity}" drawable="debdroid" />
+    <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.UpdatableAppsActivity}" drawable="yalp_store" />
 
     <!--System-->
     <item component="ComponentInfo{io.github.benoitduffez.cupsprint/io.github.benoitduffez.cupsprint.app.ManageManualPrintersActivity}" drawable="printer" />
@@ -279,6 +280,7 @@
     <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicActionTabActivity}" drawable="music" />
     <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.MusicBrowserTabActivity}" drawable="music" />
     <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="podcast" />
+    <item component="ComponentInfo{ch.blinkenlights.android.vanilla/LibraryActivity}" drawable="vanilla" />
 
     <!--Messenger-->
     <item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="mumble" />
@@ -297,6 +299,7 @@
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.linphone/org.linphone.LinphoneLauncherActivity}" drawable="linphone"/>
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.ConversationListActivity}" drawable="sms_secure" />
+    <item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="silence" />
     <item component="ComponentInfo{org.libresignal/org.thoughtcrime.securesms.RoutingActivity}" drawable="sms_secure" />
     <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="antox" />
     <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
@@ -317,6 +320,7 @@
     <item component="ComponentInfo{fr.gouv.etalab.mastodon/fr.gouv.etalab.mastodon.activities.SplashActivity}" drawable="mastodon"/>
     <item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat" />
     <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere"/>
+    <item component="ComponentInfo{org.kontalk/org.kontalk.ui.ConversationsActivity}" drawable="kontalk" />
 
     <!--Navigation-->
     <item component="ComponentInfo{com.mapswithme.maps.libre/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
@@ -346,6 +350,8 @@
     <item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="goldendict" />
     <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="goldendict" />
     <item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="simplenote"/>
+    <item component="ComponentInfo{com.moonpi.swiftnotes/com.moonpi.swiftnotes.MainActivity}" drawable="swiftnotes" />
+
 
     <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
@@ -393,6 +399,7 @@
     <item component="ComponentInfo{net.bible.android.activity/net.bible.android.activity.StartupActivity}" drawable="bible" />
     <item component="ComponentInfo{com.sirma.mobile.bible.android/com.youversion.ui.MainActivity}" drawable="bible" />
     <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="git"/>
+    <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="mgit" />
     <item component="ComponentInfo{net.momodalo.app.vimtouch/net.momodalo.app.vimtouch.VimTouch}" drawable="vim" />
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="cal_color"/>
     <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="scope"/>
@@ -416,6 +423,7 @@
     <item component="ComponentInfo{jackpal.androidterm2/jackpal.androidterm2.Term}" drawable="terminal" />
     <item component="ComponentInfo{org.schabi.terminightor/org.schabi.terminightor.AlarmItemListActivity}" drawable="terminightor" />
     <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
+    <item component="ComponentInfo{org.connectbot/org.connectbot.HostListActivity}" drawable="connectbot" />
 
     <!--Secruity-->
     <item component="ComponentInfo{org.thialfihar.android.apg/org.thialfihar.android.apg.ui.KeyListActivity}" drawable="apg" />

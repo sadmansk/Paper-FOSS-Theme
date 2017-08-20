@@ -18,6 +18,7 @@
     <item drawable="chromium" />
     <item drawable="clock" />
     <item drawable="contacts" />
+    <item drawable="connectbot" />
     <item drawable="conversation" />
     <item drawable="dash" />
     <item drawable="davdroid" />
@@ -45,6 +46,7 @@
     <item drawable="kalarm" />
     <item drawable="keepass" />
     <item drawable="keychain" />
+    <item drawable="kontalk" />
     <item drawable="lightning" />
     <item drawable="linphone" />
     <item drawable="litecoin" />
@@ -55,6 +57,7 @@
     <item drawable="mc" />
     <item drawable="memetastic" />
     <item drawable="minetest" />
+    <item drawable="mgit" />
     <item drawable="mumble" />
     <item drawable="music" />
     <item drawable="netguard" />
@@ -75,11 +78,13 @@
     <item drawable="seafile" />
     <item drawable="sealnote" />
     <item drawable="settings" />
+    <item drawable="silence" />
     <item drawable="sim" />
     <item drawable="simplenote" />
     <item drawable="sms" />
     <item drawable="sms_secure" />
     <item drawable="supersu" />
+    <item drawable="swiftnotes" />
     <item drawable="syncthing" />
     <item drawable="telegram" />
     <item drawable="terminal" />
@@ -88,6 +93,7 @@
     <item drawable="tor" />
     <item drawable="tox" />
     <item drawable="twidere" />
+    <item drawable="vanilla" />
     <item drawable="videoeditor" />
     <item drawable="vim" />
     <item drawable="vlc" />
@@ -97,6 +103,7 @@
     <item drawable="weather" />
     <item drawable="weechat" />
     <item drawable="xabber" />
+    <item drawable="yalp_store" />
     <item drawable="youtube" />
     <item drawable="yubioath" />
     <item drawable="zip" />

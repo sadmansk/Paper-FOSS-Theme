@@ -1,5 +1,17 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v1.1.0
+* Added icons
+    * ConnectBot
+    * Kontalk
+    * mgit
+    * Silence
+    * SwiftNotes
+    * Vanilla
+    * Yalp Store
+* Changed
+    * FDroid
+
 ## v1.0.9
 * Added icons
     * debDroid
