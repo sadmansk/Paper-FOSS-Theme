@@ -64,6 +64,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.keepass,
             R.drawable.keychain,
             R.drawable.kontalk,
+            R.drawable.labcoat,
             R.drawable.lightning,
             R.drawable.linphone,
             R.drawable.litecoin,
