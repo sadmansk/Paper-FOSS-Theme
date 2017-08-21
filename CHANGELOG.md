@@ -3,6 +3,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 ## v1.1.1
 * Added icons
     * Clean Status Bar
+    * Muzei
     * SMS Scheduler
     * Tethering and Hotspot
     * Video Player

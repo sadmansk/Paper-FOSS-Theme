@@ -79,6 +79,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.minetest,
             R.drawable.micropinner,
             R.drawable.mgit,
+            R.drawable.muzei,
             R.drawable.mumble,
             R.drawable.music,
             R.drawable.open_camera,
