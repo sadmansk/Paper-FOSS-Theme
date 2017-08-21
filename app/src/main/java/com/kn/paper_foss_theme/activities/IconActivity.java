@@ -71,6 +71,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.litecoin,
             R.drawable.mail,
             R.drawable.mail_secure,
+            R.drawable.marsshooter,
             R.drawable.mapsme,
             R.drawable.mc,
             R.drawable.memetastic,

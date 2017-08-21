@@ -4,6 +4,8 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 * Added icons
     * Tethering and Hotspot
     * Video Player
+* Changed
+    * Red Moon
 
 ## v1.1.0
 * Added icons
