@@ -327,6 +327,7 @@
     <item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat" />
     <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere"/>
     <item component="ComponentInfo{org.kontalk/org.kontalk.ui.ConversationsActivity}" drawable="kontalk" />
+    <item component="ComponentInfo{com.github.yeriomin.smsscheduler/com.github.yeriomin.smsscheduler.Activity.SmsListActivity}" drawable="smsscheduler" />
 
     <!--Git-->
     <item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />

@@ -92,6 +92,7 @@
     <item drawable="sim" />
     <item drawable="simplenote" />
     <item drawable="sms" />
+    <item drawable="smsscheduler" />
     <item drawable="sms_secure" />
     <item drawable="supersu" />
     <item drawable="swiftnotes" />

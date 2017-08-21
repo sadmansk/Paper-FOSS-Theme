@@ -106,6 +106,7 @@ public class IconActivity extends AppCompatActivity {
 	        R.drawable.silence,
             R.drawable.simplenote,
             R.drawable.sms,
+            R.drawable.smsscheduler,
             R.drawable.sms_secure,
             R.drawable.supersu,
 	        R.drawable.swiftnotes,
