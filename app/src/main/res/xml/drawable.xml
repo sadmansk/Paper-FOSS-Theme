@@ -16,6 +16,7 @@
     <item drawable="camera" />
     <item drawable="cert" />
     <item drawable="chromium" />
+    <item drawable="cleanstatusbar" />
     <item drawable="clock" />
     <item drawable="contacts" />
     <item drawable="connectbot" />

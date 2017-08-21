@@ -29,6 +29,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.cal_color,
             R.drawable.calculator,
             R.drawable.camera,
+            R.drawable.cleanstatusbar,
             R.drawable.cert,
             R.drawable.chromium,
             R.drawable.clock,
