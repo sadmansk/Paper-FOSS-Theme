@@ -73,6 +73,7 @@
     <item drawable="nextcloud_bookmarks" />
     <item drawable="nextcloud_notes" />
     <item drawable="notes" />
+    <item drawable="openflood" />
     <item drawable="owncloud" />
     <item drawable="open_camera" />
     <item drawable="passwordstore" />

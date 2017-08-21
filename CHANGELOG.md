@@ -4,9 +4,10 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 * Added icons
     * Clean Status Bar
     * Muzei
+    * Open Flood
     * SMS Scheduler
     * Tethering and Hotspot
-    * Video Player
+    * Video Playe r
 * Changed
     * Red Moon
 

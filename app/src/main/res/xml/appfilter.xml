@@ -21,6 +21,7 @@
     <!--Games-->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="game2048" />
     <item component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MtNativeActivity}" drawable="minetest" />
+    <item component="ComponentInfo{com.gunshippenguin.openflood/com.gunshippenguin.openflood.GameActivity}" drawable="openflood" />
 
     <!--Browser-->
     <item component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}" drawable="firefox_klar" />
