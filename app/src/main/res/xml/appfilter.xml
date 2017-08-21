@@ -47,6 +47,7 @@
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.UpdatableAppsActivity}" drawable="yalp_store" />
 
     <!--System-->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings$SprdTetherSettingsActivity}" drawable="hotspot"/>
     <item component="ComponentInfo{io.github.benoitduffez.cupsprint/io.github.benoitduffez.cupsprint.app.ManageManualPrintersActivity}" drawable="printer" />
     <item component="ComponentInfo{com.android.cp.stkmanager/com.android.cp.stkmanager.STKManagerActivity}" drawable="sim" />
     <item component="ComponentInfo{com.android.simcard/com.android.simcard.SimCardActivity}" drawable="sim" />

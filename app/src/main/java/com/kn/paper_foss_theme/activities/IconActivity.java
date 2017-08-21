@@ -57,6 +57,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.git,
             R.drawable.goldendict,
             R.drawable.habit,
+            R.drawable.hotspot,
             R.drawable.irc,
             R.drawable.icecat,
             R.drawable.jabber,
