@@ -119,6 +119,7 @@ public class IconActivity extends AppCompatActivity {
 	        R.drawable.vanilla,
             R.drawable.videoeditor,
             R.drawable.vim,
+            R.drawable.videoPlayer,
             R.drawable.vlc,
             R.drawable.vpn,
             R.drawable.wallpaper,
