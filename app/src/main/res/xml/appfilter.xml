@@ -474,5 +474,6 @@
     <item component="ComponentInfo{de.schildbach.wallet_ltc/de.schildbach.wallet.ui.WalletActivity}" drawable="litecoin"/>
     <item component="ComponentInfo{hashengineering.darkcoin.wallet/de.schildbach.wallet.WalletActivity}" drawable="dash"/>
 
-
+    <!--Sport-->
+    <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runner" />
 </resources>

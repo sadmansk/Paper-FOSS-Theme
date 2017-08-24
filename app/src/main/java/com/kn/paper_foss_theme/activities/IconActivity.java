@@ -100,6 +100,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.recorder,
             R.drawable.reddit,
             R.drawable.redshift,
+            R.drawable.runner,
             R.drawable.screencam,
             R.drawable.scope,
             R.drawable.seafile,

@@ -1,5 +1,9 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v1.1.2
+* Added icons
+    * RunnerUp
+
 ## v1.1.1
 * Added icons
     * Clean Status Bar
@@ -7,7 +11,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
     * Open Flood
     * SMS Scheduler
     * Tethering and Hotspot
-    * Video Playe r
+    * Video Player
 * Changed
     * Red Moon
 
