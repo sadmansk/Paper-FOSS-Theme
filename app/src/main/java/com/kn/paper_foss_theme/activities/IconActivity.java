@@ -84,6 +84,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.music,
             R.drawable.openflood,
             R.drawable.open_camera,
+            R.drawable.openlauncher,
             R.drawable.netguard,
             R.drawable.nextcloud,
             R.drawable.nextcloud_bookmarks,
