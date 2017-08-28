@@ -247,6 +247,9 @@
     <item component="ComponentInfo{com.android.wallpaper/com.android.wallpaper.polarclock.PolarClockSettings}" drawable="wallpaper" />
     <item component="ComponentInfo{org.cyanogenmod.wallpapers.photophase/.PhotoPhaseActivity}" drawable="wallpaper" />
 
+    <!--Keyboard-->
+    <item component="ComponentInfo{com.vlath.keyboard/com.vlath.keyboard.Main}" drawable="behe"/>
+
     <!--FileManager-->
     <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="filemanager" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="filemanager"/>

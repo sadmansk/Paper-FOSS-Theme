@@ -23,6 +23,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.audiofx,
             R.drawable.batteryfu,
             R.drawable.batterylevel,
+            R.drawable.behe,
             R.drawable.bible,
             R.drawable.browser,
             R.drawable.btc,
