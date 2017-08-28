@@ -388,6 +388,7 @@
     <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="vpn" />
     <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.AllowedVPNsChooser}" drawable="vpn" />
     <item component="ComponentInfo{de.blinkt.vpndialogxposed/de.blinkt.vpndialogxposed.AllowedVPNsChooser}" drawable="vpn" />
+    <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.posts.PostsActivity}" drawable="wordpress" />
 
     <!--Mail-->
     <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="mail_secure" />

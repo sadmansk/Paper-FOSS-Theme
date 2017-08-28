@@ -134,6 +134,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.weather,
             R.drawable.weechat,
             R.drawable.wikipedia,
+            R.drawable.wordpress,
             R.drawable.xabber,
             R.drawable.yalp_store,
             R.drawable.youtube,

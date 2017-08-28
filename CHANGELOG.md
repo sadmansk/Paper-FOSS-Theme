@@ -3,6 +3,7 @@ I'm using some icons for several apps. So if some apps are using the same icons 
 ## v1.1.2
 * Added icons
     * RunnerUp
+    * Wordpress
 
 ## v1.1.1
 * Added icons
