@@ -31,6 +31,7 @@
     <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
     <item component="ComponentInfo{com.anddevw.getchromium/com.anddevw.getchromium.GetChromium}" drawable="getchromium" />
+    <item component="ComponentInfo{com.dosse.chromiumautoupdater/com.dosse.chromiumautoupdater.MainActivity}" drawable="getchromium" />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightning"/>
     <item component="ComponentInfo{org.gnu.icecat/org.gnu.icecat.App}" drawable="icecat"/>
@@ -372,6 +373,8 @@
     <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloud_bookmarks" />
     <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.NotesListViewActivity}" drawable="nextcloud_notes" />
     <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashscreenActivity}" drawable="nextcloud_notes"/>
+    <item component="ComponentInfo{org.billthefarmer.editor/Editor}" drawable="editor" />
+    <item component="ComponentInfo{org.standardnotes.notes/org.standardnotes.notes.StarterActivity}" drawable="notes"/>
 
     <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
@@ -383,8 +386,10 @@
     <item component="ComponentInfo{org.indywidualni.fblite/.activity.SplashActivity}" drawable="facebook" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="facebook" />
     <item component="ComponentInfo{com.danvelazco.fbwrapper/com.danvelazco.fbwrapper.FbWrapper}" drawable="facebook" />
-    <item component="ComponentInfo{com.mill_e.twitterwrapper/com.mill_e.twitterwrapper.TwitterWrapper}" drawable="tinfoilfortwitter" />
+    <item component="ComponentInfo{it.rignanese.leo.slimfacebook/it.rignanese.leo.slimfacebook.MainActivity}" drawable="facebook" />
+    <item component="ComponentInfo{com.mill_e.twitterwrapper/com.mill_e.twitterwrapper.TwitterWrapper}" drawable="twidere" />
     <item component="ComponentInfo{com.btmura.android.reddit/.MainActivity}" drawable="reddit" />
+    <item component="ComponentInfo{it.rignanese.leo.slimtwitter/it.rignanese.leo.slimtwitter.MainActivity}" drawable="twidere" />
     <item component="ComponentInfo{org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity}" drawable="reddit" />
 
     <!--Network-->
@@ -420,6 +425,7 @@
     <item component="ComponentInfo{com.markuspage.android.certtools/com.markuspage.android.certtools.CertToolsActivity}" drawable="cert"/>
     <item component="ComponentInfo{net.bible.android.activity/net.bible.android.activity.StartupActivity}" drawable="bible" />
     <item component="ComponentInfo{com.sirma.mobile.bible.android/com.youversion.ui.MainActivity}" drawable="bible" />
+    <item component="ComponentInfo{com.BibleQuote/com.BibleQuote.ui.SplashActivity}" drawable="bible"/>
     <item component="ComponentInfo{net.momodalo.app.vimtouch/net.momodalo.app.vimtouch.VimTouch}" drawable="vim" />
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="cal_color"/>
     <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="scope"/>

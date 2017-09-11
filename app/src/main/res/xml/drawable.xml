@@ -28,6 +28,7 @@
     <item drawable="document_viewer" />
     <item drawable="documents" />
     <item drawable="downloads" />
+    <item drawable="editor" />
     <item drawable="facebook" />
     <item drawable="fdroid" />
     <item drawable="feed" />

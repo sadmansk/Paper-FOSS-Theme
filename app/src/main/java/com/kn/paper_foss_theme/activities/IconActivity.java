@@ -43,6 +43,7 @@ public class IconActivity extends AppCompatActivity {
             R.drawable.document_viewer,
             R.drawable.documents,
             R.drawable.downloads,
+            R.drawable.editor,
             R.drawable.facebook,
             R.drawable.fdroid,
             R.drawable.feed,

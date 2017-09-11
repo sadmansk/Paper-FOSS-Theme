@@ -1,5 +1,14 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v1.1.3
+* Added icons
+    * Auto Updater for Chromium
+    * Bible Quote
+    * Editor
+    * SlimSocial for Facebook
+    * SlimSocial for Twitter
+    * Standard Notes
+
 ## v1.1.2.1
 * Fixed
     * Video Player
