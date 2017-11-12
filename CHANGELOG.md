@@ -1,5 +1,13 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v1.1.4
+* Added icons
+    * Barcode Scanner
+    * Disk Usage
+    * Standard Notes
+* Fixed
+    * FDroid
+
 ## v1.1.3
 * Added icons
     * Auto Updater for Chromium

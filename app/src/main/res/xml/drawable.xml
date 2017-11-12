@@ -25,6 +25,7 @@
     <item drawable="dash" />
     <item drawable="davdroid" />
     <item drawable="debdroid" />
+    <item drawable="diskusage" />
     <item drawable="document_viewer" />
     <item drawable="documents" />
     <item drawable="downloads" />
@@ -101,6 +102,7 @@
     <item drawable="sms" />
     <item drawable="smsscheduler" />
     <item drawable="sms_secure" />
+    <item drawable="standardnotes" />
     <item drawable="supersu" />
     <item drawable="swiftnotes" />
     <item drawable="syncthing" />

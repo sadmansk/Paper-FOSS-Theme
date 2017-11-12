@@ -47,6 +47,7 @@
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
     <item component="ComponentInfo{de.mangelow.debdroid/de.mangelow.debdroid.MainActivity}" drawable="debdroid" />
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.UpdatableAppsActivity}" drawable="yalp_store" />
+    <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid"/>
 
     <!--System-->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings$SprdTetherSettingsActivity}" drawable="hotspot"/>
@@ -364,6 +365,7 @@
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="supersu"/>
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}" drawable="qtqr" />
     <item component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}" drawable="qtqr" />
+    <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="qtqr"/>
     <item component="ComponentInfo{com.github.axet.hourlyreminder/com.github.axet.hourlyreminder.activities.MainActivity}" drawable="kalarm"/>
     <item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="goldendict" />
     <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="goldendict" />
@@ -375,6 +377,7 @@
     <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashscreenActivity}" drawable="nextcloud_notes"/>
     <item component="ComponentInfo{org.billthefarmer.editor/Editor}" drawable="editor" />
     <item component="ComponentInfo{org.standardnotes.notes/org.standardnotes.notes.StarterActivity}" drawable="notes"/>
+    <item component="ComponentInfo{com.standardnotes/com.standardnotes.MainActivity}" drawable="standardnotes"/>
 
     <!--Internet-->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube"/>
@@ -440,6 +443,7 @@
     <item component="ComponentInfo{com.emmaguy.cleanstatusbar/com.emmaguy.cleanstatusbar.MainActivity}" drawable="cleanstatusbar" />
     <item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
     <item component="ComponentInfo{com.benny.openlauncher/com.benny.openlauncher.activity.InitActivity}" drawable="openlauncher"/>
+    <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"/>
 
     <!--Privacy-->
     <item component="ComponentInfo{org.torproject.android/org.torproject.android.Orbot}" drawable="tor" />
