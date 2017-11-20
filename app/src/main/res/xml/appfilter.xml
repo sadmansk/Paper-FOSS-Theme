@@ -314,10 +314,10 @@
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.ConversationListActivity}" drawable="sms_secure" />
     <item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="silence" />
     <item component="ComponentInfo{org.libresignal/org.thoughtcrime.securesms.RoutingActivity}" drawable="sms_secure" />
-    <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="antox" />
-    <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.SplashActivity}" drawable="antox"/>
-    <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
-    <item component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}" drawable="antox" />
+    <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="tox" />
+    <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.SplashActivity}" drawable="tox"/>
+    <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="tox" />
+    <item component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}" drawable="tox" />
     <item component="ComponentInfo{info.guardianproject.otr.app.im/info.guardianproject.otr.app.im.app.WelcomeActivity}" drawable="jabber" />
     <item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversation" />
     <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
