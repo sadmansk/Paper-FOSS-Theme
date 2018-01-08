@@ -123,6 +123,7 @@ public class IconActivity extends AppCompatActivity {
 	        R.drawable.silence,
             R.drawable.sim,
             R.drawable.simplenote,
+            R.drawable.skytube,
             R.drawable.sms,
             R.drawable.smsscheduler,
             R.drawable.sms_secure,

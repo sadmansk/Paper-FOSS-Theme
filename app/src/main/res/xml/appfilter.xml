@@ -494,4 +494,45 @@
 
     <!--Sport-->
     <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runner" />
+
+
+	<!-- ACV -->
+	<item component="ComponentInfo{net.androidcomics.acv/net.robotmedia.acv.ui.ComicViewerActivity}" drawable="acv"/>
+
+	<!-- Barcode Scanner -->
+	<item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode-scanner"/>
+
+	<!-- BARIA -->
+	<item component="ComponentInfo{com.easwareapps.baria/com.easwareapps.baria.MainActivity}" drawable="baria"/>
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.MainActivity}" drawable="calculator"/>
+
+	<!-- Dukto -->
+	<item component="ComponentInfo{it.msec.dukto/it.msec.dukto.Dukto}" drawable="dukto"/>
+
+	<!-- FBReader -->
+	<item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="fbreader"/>
+
+	<!-- Frozen Bubble -->
+	<item component="ComponentInfo{org.jfedor.frozenbubble/com.efortin.frozenbubble.HomeScreen}" drawable="frozen-bubble"/>
+
+	<!-- Galería -->
+	<item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}" drawable="gallery"/>
+
+	<!-- Opera Mini -->
+	<item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera"/>
+
+	<!-- OsmAnd -->
+	<item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MapActivity}" drawable="osmand"/>
+
+	<!-- SkyTube -->
+	<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube"/>
+
+	<!-- Sparse rss -->
+	<item component="ComponentInfo{de.shandschuh.sparserss/de.shandschuh.sparserss.MainTabActivity}" drawable="sparse-rss"/>
+
+	<!-- WebApps -->
+	<item component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}" drawable="webapps"/>
+
 </resources>
