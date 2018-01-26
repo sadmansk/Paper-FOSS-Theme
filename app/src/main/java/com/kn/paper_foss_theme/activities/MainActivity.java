@@ -70,7 +70,6 @@ public class MainActivity extends AppCompatActivity {
         TextView iconText = new TextView(this);
         iconText.setText("icons");
         iconText.setTextSize(35);
-        iconText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         iconText.setPadding(64, 64, 64, 64);
         iconClickLayout.addView(iconText);
 
@@ -102,7 +101,6 @@ public class MainActivity extends AppCompatActivity {
         TextView sourceText = new TextView(this);
         sourceText.setText("source");
         sourceText.setTextSize(35);
-        sourceText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         sourceText.setPadding(64, 64, 64, 64);
         sourceClickLayout.addView(sourceText);
 
@@ -134,7 +132,6 @@ public class MainActivity extends AppCompatActivity {
         TextView aboutText = new TextView(this);
         aboutText.setText("license");
         aboutText.setTextSize(35);
-        aboutText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         aboutText.setPadding(64, 64, 64, 64);
         aboutClickLayout.addView(aboutText);
     }
