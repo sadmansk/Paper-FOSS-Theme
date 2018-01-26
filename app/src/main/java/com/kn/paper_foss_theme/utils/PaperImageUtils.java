@@ -1,23 +1,25 @@
 package com.kn.paper_foss_theme.utils;
 
+import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.widget.ImageView;
 
-
+import com.kn.paper_foss_theme.async.BitmapWorkerTask;
 
 public class PaperImageUtils {
 
-    public static void bitmapLoadAsync(ImageView imageView, Resources res, int resId, int width, int height) {
-        com.kn.paper_foss_themeasync.BitmapWorkerTask task = new com.kn.paper_foss_themeasync.BitmapWorkerTask(imageView);
+    public static void bitmapLoadAsync(ImageView imageView, Context context, Resources resources, String image, int width, int height) {
+        BitmapWorkerTask task = new BitmapWorkerTask(imageView);
 
-        task.res = res;
-        task.resId = resId;
+        task.context = context;
+        task.resources = resources;
+        task.image = image;
         task.width = width;
         task.height = height;
 
-        task.execute(resId);
+        task.execute();
     }
 
     public static Bitmap bitmapLoad(Resources res, int resId, int width, int height) {
@@ -84,6 +86,9 @@ public class PaperImageUtils {
             cropX = (resWidth - cropWidth) / 2;
             cropHeight = Math.round(resHeight);
             cropY = 0;
+        }
+        if (cropWidth - cropX <= 0) {
+            cropX = 5;
         }
         return Bitmap.createBitmap(rawBitmap, cropX, cropY, cropWidth, cropHeight);
     }

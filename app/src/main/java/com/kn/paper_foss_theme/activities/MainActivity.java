@@ -64,12 +64,12 @@ public class MainActivity extends AppCompatActivity {
         Button iconButton = new Button(this);
         iconButton.setLayoutParams(buttonParams);
         iconButton.setBackground(new BitmapDrawable(getResources(), PaperImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_icon_button, Math.round(48 * scale), Math.round(48 * scale))));
+        iconButton.setClickable(false);
         iconClickLayout.addView(iconButton);
 
         TextView iconText = new TextView(this);
         iconText.setText("icons");
         iconText.setTextSize(35);
-        iconText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         iconText.setPadding(64, 64, 64, 64);
         iconClickLayout.addView(iconText);
 
@@ -95,12 +95,12 @@ public class MainActivity extends AppCompatActivity {
         Button sourceButton = new Button(this);
         sourceButton.setLayoutParams(buttonParams);
         sourceButton.setBackground(new BitmapDrawable(getResources(), PaperImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_source_button, Math.round(48 * scale), Math.round(48 * scale))));
+        sourceButton.setClickable(false);
         sourceClickLayout.addView(sourceButton);
 
         TextView sourceText = new TextView(this);
         sourceText.setText("source");
         sourceText.setTextSize(35);
-        sourceText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         sourceText.setPadding(64, 64, 64, 64);
         sourceClickLayout.addView(sourceText);
 
@@ -126,12 +126,12 @@ public class MainActivity extends AppCompatActivity {
         Button aboutButton = new Button(this);
         aboutButton.setLayoutParams(buttonParams);
         aboutButton.setBackground(new BitmapDrawable(getResources(), PaperImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_license_button, Math.round(48 * scale), Math.round(48 * scale))));
+        aboutButton.setClickable(false);
         aboutClickLayout.addView(aboutButton);
 
         TextView aboutText = new TextView(this);
         aboutText.setText("license");
         aboutText.setTextSize(35);
-        aboutText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         aboutText.setPadding(64, 64, 64, 64);
         aboutClickLayout.addView(aboutText);
     }
