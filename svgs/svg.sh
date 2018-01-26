@@ -3,8 +3,8 @@
 # Thanks to t184256
 # Requires Inkscape and Imagemagic
 
-
-for SVG in svgs/new/*.svg; do
+for SVG in new/*.svg
+do
     N=$(basename $SVG .svg)
     inkscape -f $SVG -w 48 -h 48 -e \
         app/src/main/res/drawable-mdpi/$N.png
@@ -18,6 +18,5 @@ for SVG in svgs/new/*.svg; do
         app/src/main/res/drawable-xxxhdpi/$N.png
     inkscape -f $SVG -w 384 -h 384 -e \
         app/src/main/res/drawable-nodpi/nodpi_$N.png
-    mv $SVG svgs/done/
+    mv $SVG "done/"
 done
-
