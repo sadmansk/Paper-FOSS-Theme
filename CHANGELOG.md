@@ -1,5 +1,8 @@
 I'm using some icons for several apps. So if some apps are using the same icons or if something other went wrong, create a issue.
 
+## v1.1.5.2
+ * Some fixes
+
 ## v1.1.5.1
 * Fixed
     * Antox
